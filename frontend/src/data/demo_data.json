@@ -1,0 +1,6178 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": "ACC_0001",
+        "label": "ACC_0001",
+        "group": "Account",
+        "holder_name": "Emma Smith",
+        "created_at": "2024-03-21",
+        "risk_score": 13,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0002",
+        "label": "ACC_0002",
+        "group": "Account",
+        "holder_name": "Olivia Brown",
+        "created_at": "2025-11-28",
+        "risk_score": 8,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0003",
+        "label": "ACC_0003",
+        "group": "Account",
+        "holder_name": "Alexander Johnson",
+        "created_at": "2024-08-23",
+        "risk_score": 18,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0004",
+        "label": "ACC_0004",
+        "group": "Account",
+        "holder_name": "James Smith",
+        "created_at": "2026-01-14",
+        "risk_score": 11,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0005",
+        "label": "ACC_0005",
+        "group": "Account",
+        "holder_name": "Olivia Taylor",
+        "created_at": "2024-08-11",
+        "risk_score": 5,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0006",
+        "label": "ACC_0006",
+        "group": "Account",
+        "holder_name": "Alexander Brown",
+        "created_at": "2024-04-16",
+        "risk_score": 25,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0007",
+        "label": "ACC_0007",
+        "group": "Account",
+        "holder_name": "Alexander Davis",
+        "created_at": "2025-09-06",
+        "risk_score": 19,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0008",
+        "label": "ACC_0008",
+        "group": "Account",
+        "holder_name": "Isabella Jones",
+        "created_at": "2026-04-13",
+        "risk_score": 10,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0009",
+        "label": "ACC_0009",
+        "group": "Account",
+        "holder_name": "Lucas Miller",
+        "created_at": "2025-07-09",
+        "risk_score": 9,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0010",
+        "label": "ACC_0010",
+        "group": "Account",
+        "holder_name": "Olivia Miller",
+        "created_at": "2026-01-05",
+        "risk_score": 7,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0011",
+        "label": "ACC_0011",
+        "group": "Account",
+        "holder_name": "Lucas Johnson",
+        "created_at": "2025-04-17",
+        "risk_score": 16,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0012",
+        "label": "ACC_0012",
+        "group": "Account",
+        "holder_name": "Isabella Jones",
+        "created_at": "2026-03-06",
+        "risk_score": 19,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0013",
+        "label": "ACC_0013",
+        "group": "Account",
+        "holder_name": "Alexander Johnson",
+        "created_at": "2025-03-28",
+        "risk_score": 7,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0014",
+        "label": "ACC_0014",
+        "group": "Account",
+        "holder_name": "Alexander Jones",
+        "created_at": "2024-07-15",
+        "risk_score": 24,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0015",
+        "label": "ACC_0015",
+        "group": "Account",
+        "holder_name": "Sophia Anderson",
+        "created_at": "2025-10-05",
+        "risk_score": 7,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0016",
+        "label": "ACC_0016",
+        "group": "Account",
+        "holder_name": "James Brown",
+        "created_at": "2024-02-18",
+        "risk_score": 14,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0017",
+        "label": "ACC_0017",
+        "group": "Account",
+        "holder_name": "Emma Brown",
+        "created_at": "2026-01-06",
+        "risk_score": 17,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0018",
+        "label": "ACC_0018",
+        "group": "Account",
+        "holder_name": "Noah Wilson",
+        "created_at": "2024-07-08",
+        "risk_score": 16,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0019",
+        "label": "ACC_0019",
+        "group": "Account",
+        "holder_name": "Liam Miller",
+        "created_at": "2025-04-21",
+        "risk_score": 11,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0020",
+        "label": "ACC_0020",
+        "group": "Account",
+        "holder_name": "Noah Johnson",
+        "created_at": "2024-08-04",
+        "risk_score": 25,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0021",
+        "label": "ACC_0021",
+        "group": "Account",
+        "holder_name": "Liam Taylor",
+        "created_at": "2024-04-03",
+        "risk_score": 12,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0022",
+        "label": "ACC_0022",
+        "group": "Account",
+        "holder_name": "Liam Wilson",
+        "created_at": "2025-03-27",
+        "risk_score": 13,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0023",
+        "label": "ACC_0023",
+        "group": "Account",
+        "holder_name": "Alexander Brown",
+        "created_at": "2024-05-18",
+        "risk_score": 15,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0024",
+        "label": "ACC_0024",
+        "group": "Account",
+        "holder_name": "James Brown",
+        "created_at": "2026-03-18",
+        "risk_score": 15,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0025",
+        "label": "ACC_0025",
+        "group": "Account",
+        "holder_name": "Lucas Jones",
+        "created_at": "2026-02-11",
+        "risk_score": 11,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0026",
+        "label": "ACC_0026",
+        "group": "Account",
+        "holder_name": "Isabella Miller",
+        "created_at": "2025-09-14",
+        "risk_score": 25,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0027",
+        "label": "ACC_0027",
+        "group": "Account",
+        "holder_name": "Mia Davis",
+        "created_at": "2024-06-30",
+        "risk_score": 19,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0028",
+        "label": "ACC_0028",
+        "group": "Account",
+        "holder_name": "Liam Jones",
+        "created_at": "2025-11-28",
+        "risk_score": 12,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0029",
+        "label": "ACC_0029",
+        "group": "Account",
+        "holder_name": "Alexander Taylor",
+        "created_at": "2025-07-24",
+        "risk_score": 23,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0030",
+        "label": "ACC_0030",
+        "group": "Account",
+        "holder_name": "Lucas Anderson",
+        "created_at": "2025-03-07",
+        "risk_score": 16,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0031",
+        "label": "ACC_0031",
+        "group": "Account",
+        "holder_name": "Olivia Williams",
+        "created_at": "2024-11-14",
+        "risk_score": 20,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0032",
+        "label": "ACC_0032",
+        "group": "Account",
+        "holder_name": "Emma Smith",
+        "created_at": "2025-12-28",
+        "risk_score": 9,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0033",
+        "label": "ACC_0033",
+        "group": "Account",
+        "holder_name": "Liam Davis",
+        "created_at": "2024-08-17",
+        "risk_score": 7,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0034",
+        "label": "ACC_0034",
+        "group": "Account",
+        "holder_name": "Lucas Davis",
+        "created_at": "2024-08-17",
+        "risk_score": 19,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0035",
+        "label": "ACC_0035",
+        "group": "Account",
+        "holder_name": "Alexander Jones",
+        "created_at": "2024-09-30",
+        "risk_score": 5,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0036",
+        "label": "ACC_0036",
+        "group": "Account",
+        "holder_name": "Emma Taylor",
+        "created_at": "2024-03-12",
+        "risk_score": 13,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0037",
+        "label": "ACC_0037",
+        "group": "Account",
+        "holder_name": "Sophia Johnson",
+        "created_at": "2025-06-23",
+        "risk_score": 18,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0038",
+        "label": "ACC_0038",
+        "group": "Account",
+        "holder_name": "Liam Wilson",
+        "created_at": "2026-04-16",
+        "risk_score": 13,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0039",
+        "label": "ACC_0039",
+        "group": "Account",
+        "holder_name": "Alexander Williams",
+        "created_at": "2024-11-16",
+        "risk_score": 8,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0040",
+        "label": "ACC_0040",
+        "group": "Account",
+        "holder_name": "Noah Taylor",
+        "created_at": "2024-08-04",
+        "risk_score": 11,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0041",
+        "label": "ACC_0041",
+        "group": "Account",
+        "holder_name": "Liam Miller",
+        "created_at": "2024-02-29",
+        "risk_score": 10,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0042",
+        "label": "ACC_0042",
+        "group": "Account",
+        "holder_name": "Alexander Taylor",
+        "created_at": "2026-04-19",
+        "risk_score": 24,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0043",
+        "label": "ACC_0043",
+        "group": "Account",
+        "holder_name": "Sophia Wilson",
+        "created_at": "2026-03-31",
+        "risk_score": 8,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0044",
+        "label": "ACC_0044",
+        "group": "Account",
+        "holder_name": "Sophia Jones",
+        "created_at": "2025-08-17",
+        "risk_score": 6,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0045",
+        "label": "ACC_0045",
+        "group": "Account",
+        "holder_name": "Olivia Anderson",
+        "created_at": "2026-01-29",
+        "risk_score": 7,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0046",
+        "label": "ACC_0046",
+        "group": "Account",
+        "holder_name": "Mia Johnson",
+        "created_at": "2024-03-02",
+        "risk_score": 22,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0047",
+        "label": "ACC_0047",
+        "group": "Account",
+        "holder_name": "Liam Williams",
+        "created_at": "2024-06-13",
+        "risk_score": 20,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0048",
+        "label": "ACC_0048",
+        "group": "Account",
+        "holder_name": "Alexander Williams",
+        "created_at": "2025-07-22",
+        "risk_score": 21,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0049",
+        "label": "ACC_0049",
+        "group": "Account",
+        "holder_name": "Isabella Davis",
+        "created_at": "2025-09-15",
+        "risk_score": 22,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0050",
+        "label": "ACC_0050",
+        "group": "Account",
+        "holder_name": "Olivia Jones",
+        "created_at": "2025-03-07",
+        "risk_score": 25,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0051",
+        "label": "ACC_0051",
+        "group": "Account",
+        "holder_name": "Sophia Wilson",
+        "created_at": "2024-11-06",
+        "risk_score": 19,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0052",
+        "label": "ACC_0052",
+        "group": "Account",
+        "holder_name": "Emma Brown",
+        "created_at": "2025-09-01",
+        "risk_score": 7,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0053",
+        "label": "ACC_0053",
+        "group": "Account",
+        "holder_name": "Sophia Smith",
+        "created_at": "2024-08-25",
+        "risk_score": 22,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0054",
+        "label": "ACC_0054",
+        "group": "Account",
+        "holder_name": "Olivia Anderson",
+        "created_at": "2025-09-06",
+        "risk_score": 5,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0055",
+        "label": "ACC_0055",
+        "group": "Account",
+        "holder_name": "Emma Smith",
+        "created_at": "2025-08-28",
+        "risk_score": 7,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0056",
+        "label": "ACC_0056",
+        "group": "Account",
+        "holder_name": "James Miller",
+        "created_at": "2026-02-06",
+        "risk_score": 21,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0057",
+        "label": "ACC_0057",
+        "group": "Account",
+        "holder_name": "Olivia Jones",
+        "created_at": "2024-06-03",
+        "risk_score": 20,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0058",
+        "label": "ACC_0058",
+        "group": "Account",
+        "holder_name": "Olivia Taylor",
+        "created_at": "2025-12-05",
+        "risk_score": 23,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0059",
+        "label": "ACC_0059",
+        "group": "Account",
+        "holder_name": "Isabella Wilson",
+        "created_at": "2025-08-14",
+        "risk_score": 20,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "ACC_0060",
+        "label": "ACC_0060",
+        "group": "Account",
+        "holder_name": "Lucas Brown",
+        "created_at": "2026-01-13",
+        "risk_score": 8,
+        "status": "active",
+        "account_type": "normal"
+      },
+      {
+        "id": "MULE_101",
+        "label": "MULE_101",
+        "group": "Account",
+        "holder_name": "Proxy Agent MULE_101",
+        "created_at": "2026-09-13",
+        "risk_score": 96,
+        "status": "active",
+        "account_type": "circular_loop"
+      },
+      {
+        "id": "MULE_102",
+        "label": "MULE_102",
+        "group": "Account",
+        "holder_name": "Proxy Agent MULE_102",
+        "created_at": "2026-09-15",
+        "risk_score": 96,
+        "status": "active",
+        "account_type": "circular_loop"
+      },
+      {
+        "id": "MULE_103",
+        "label": "MULE_103",
+        "group": "Account",
+        "holder_name": "Proxy Agent MULE_103",
+        "created_at": "2026-09-13",
+        "risk_score": 96,
+        "status": "active",
+        "account_type": "circular_loop"
+      },
+      {
+        "id": "MULE_104",
+        "label": "MULE_104",
+        "group": "Account",
+        "holder_name": "Proxy Agent MULE_104",
+        "created_at": "2026-09-13",
+        "risk_score": 96,
+        "status": "active",
+        "account_type": "circular_loop"
+      },
+      {
+        "id": "MULE_105",
+        "label": "MULE_105",
+        "group": "Account",
+        "holder_name": "Proxy Agent MULE_105",
+        "created_at": "2026-09-12",
+        "risk_score": 96,
+        "status": "active",
+        "account_type": "circular_loop"
+      },
+      {
+        "id": "MULE_RING_01",
+        "label": "MULE_RING_01",
+        "group": "Account",
+        "holder_name": "Syndicate Account MULE_RING_01",
+        "created_at": "2026-09-18",
+        "risk_score": 91,
+        "status": "active",
+        "account_type": "shared_infra_ring"
+      },
+      {
+        "id": "MULE_RING_02",
+        "label": "MULE_RING_02",
+        "group": "Account",
+        "holder_name": "Syndicate Account MULE_RING_02",
+        "created_at": "2026-09-20",
+        "risk_score": 91,
+        "status": "active",
+        "account_type": "shared_infra_ring"
+      },
+      {
+        "id": "MULE_RING_03",
+        "label": "MULE_RING_03",
+        "group": "Account",
+        "holder_name": "Syndicate Account MULE_RING_03",
+        "created_at": "2026-10-01",
+        "risk_score": 91,
+        "status": "active",
+        "account_type": "shared_infra_ring"
+      },
+      {
+        "id": "MULE_RING_04",
+        "label": "MULE_RING_04",
+        "group": "Account",
+        "holder_name": "Syndicate Account MULE_RING_04",
+        "created_at": "2026-09-21",
+        "risk_score": 91,
+        "status": "active",
+        "account_type": "shared_infra_ring"
+      },
+      {
+        "id": "MULE_RING_05",
+        "label": "MULE_RING_05",
+        "group": "Account",
+        "holder_name": "Syndicate Account MULE_RING_05",
+        "created_at": "2026-09-21",
+        "risk_score": 91,
+        "status": "active",
+        "account_type": "shared_infra_ring"
+      },
+      {
+        "id": "MULE_RING_06",
+        "label": "MULE_RING_06",
+        "group": "Account",
+        "holder_name": "Syndicate Account MULE_RING_06",
+        "created_at": "2026-09-21",
+        "risk_score": 91,
+        "status": "active",
+        "account_type": "shared_infra_ring"
+      },
+      {
+        "id": "SHELL_ACC_01",
+        "label": "SHELL_ACC_01",
+        "group": "Account",
+        "holder_name": "Shell Corp Account SHELL_ACC_01",
+        "created_at": "2026-10-03",
+        "risk_score": 88,
+        "status": "active",
+        "account_type": "shell_loop"
+      },
+      {
+        "id": "SHELL_ACC_02",
+        "label": "SHELL_ACC_02",
+        "group": "Account",
+        "holder_name": "Shell Corp Account SHELL_ACC_02",
+        "created_at": "2026-10-04",
+        "risk_score": 88,
+        "status": "active",
+        "account_type": "shell_loop"
+      },
+      {
+        "id": "SHELL_ACC_03",
+        "label": "SHELL_ACC_03",
+        "group": "Account",
+        "holder_name": "Shell Corp Account SHELL_ACC_03",
+        "created_at": "2026-09-28",
+        "risk_score": 88,
+        "status": "active",
+        "account_type": "shell_loop"
+      },
+      {
+        "id": "ENT_001",
+        "label": "Summit Logistics LLC",
+        "group": "Entity",
+        "jurisdiction": "United States",
+        "is_shell": false,
+        "risk_score": 10
+      },
+      {
+        "id": "ENT_002",
+        "label": "Nordic Horizon Imports",
+        "group": "Entity",
+        "jurisdiction": "Germany",
+        "is_shell": false,
+        "risk_score": 10
+      },
+      {
+        "id": "ENT_003",
+        "label": "Kestrel Retail Group",
+        "group": "Entity",
+        "jurisdiction": "United Kingdom",
+        "is_shell": false,
+        "risk_score": 10
+      },
+      {
+        "id": "ENT_004",
+        "label": "Pacifica Retail Solutions",
+        "group": "Entity",
+        "jurisdiction": "Singapore",
+        "is_shell": false,
+        "risk_score": 10
+      },
+      {
+        "id": "ENT_005",
+        "label": "Maple Leaf Trading Corp",
+        "group": "Entity",
+        "jurisdiction": "Canada",
+        "is_shell": false,
+        "risk_score": 10
+      },
+      {
+        "id": "ENT_006",
+        "label": "Tokyo Harbor Services",
+        "group": "Entity",
+        "jurisdiction": "Japan",
+        "is_shell": false,
+        "risk_score": 10
+      },
+      {
+        "id": "ENT_007",
+        "label": "Beacon Health Systems",
+        "group": "Entity",
+        "jurisdiction": "United States",
+        "is_shell": false,
+        "risk_score": 10
+      },
+      {
+        "id": "ENT_008",
+        "label": "Apex Precision Tools",
+        "group": "Entity",
+        "jurisdiction": "Germany",
+        "is_shell": false,
+        "risk_score": 10
+      },
+      {
+        "id": "ENT_SHELL_01",
+        "label": "Golden Crest Holding Ltd",
+        "group": "Entity",
+        "jurisdiction": "Cyprus",
+        "is_shell": true,
+        "risk_score": 85
+      },
+      {
+        "id": "ENT_SHELL_02",
+        "label": "Mariner Offshore Trading Ltd",
+        "group": "Entity",
+        "jurisdiction": "Seychelles",
+        "is_shell": true,
+        "risk_score": 85
+      },
+      {
+        "id": "ENT_SHELL_03",
+        "label": "Horizon Gateway Capital Corp",
+        "group": "Entity",
+        "jurisdiction": "Panama",
+        "is_shell": true,
+        "risk_score": 85
+      },
+      {
+        "id": "ENT_SHELL_04",
+        "label": "Blue Ocean Merchant S.A.",
+        "group": "Entity",
+        "jurisdiction": "British Virgin Islands",
+        "is_shell": true,
+        "risk_score": 85
+      },
+      {
+        "id": "ENT_SHELL_05",
+        "label": "Vanguard Global Trust LLC",
+        "group": "Entity",
+        "jurisdiction": "Belize",
+        "is_shell": true,
+        "risk_score": 85
+      },
+      {
+        "id": "ENT_SHELL_06",
+        "label": "Silverline Commercial Holdings",
+        "group": "Entity",
+        "jurisdiction": "Cayman Islands",
+        "is_shell": true,
+        "risk_score": 85
+      },
+      {
+        "id": "DEV_NORM_001",
+        "label": "DEV_NORM_001",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_002",
+        "label": "DEV_NORM_002",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_003",
+        "label": "DEV_NORM_003",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_004",
+        "label": "DEV_NORM_004",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_005",
+        "label": "DEV_NORM_005",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_006",
+        "label": "DEV_NORM_006",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_007",
+        "label": "DEV_NORM_007",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_008",
+        "label": "DEV_NORM_008",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_009",
+        "label": "DEV_NORM_009",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_010",
+        "label": "DEV_NORM_010",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_011",
+        "label": "DEV_NORM_011",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_012",
+        "label": "DEV_NORM_012",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_013",
+        "label": "DEV_NORM_013",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_014",
+        "label": "DEV_NORM_014",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_015",
+        "label": "DEV_NORM_015",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_016",
+        "label": "DEV_NORM_016",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_017",
+        "label": "DEV_NORM_017",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_018",
+        "label": "DEV_NORM_018",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_019",
+        "label": "DEV_NORM_019",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_020",
+        "label": "DEV_NORM_020",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_021",
+        "label": "DEV_NORM_021",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_022",
+        "label": "DEV_NORM_022",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_023",
+        "label": "DEV_NORM_023",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_024",
+        "label": "DEV_NORM_024",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_025",
+        "label": "DEV_NORM_025",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_026",
+        "label": "DEV_NORM_026",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_027",
+        "label": "DEV_NORM_027",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_028",
+        "label": "DEV_NORM_028",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_029",
+        "label": "DEV_NORM_029",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_030",
+        "label": "DEV_NORM_030",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_031",
+        "label": "DEV_NORM_031",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_032",
+        "label": "DEV_NORM_032",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_033",
+        "label": "DEV_NORM_033",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_034",
+        "label": "DEV_NORM_034",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_035",
+        "label": "DEV_NORM_035",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_036",
+        "label": "DEV_NORM_036",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_037",
+        "label": "DEV_NORM_037",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_038",
+        "label": "DEV_NORM_038",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_039",
+        "label": "DEV_NORM_039",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_040",
+        "label": "DEV_NORM_040",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_041",
+        "label": "DEV_NORM_041",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_042",
+        "label": "DEV_NORM_042",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_043",
+        "label": "DEV_NORM_043",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_NORM_044",
+        "label": "DEV_NORM_044",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "DEV_LOOP_101",
+        "label": "DEV_LOOP_101",
+        "group": "Device",
+        "risk_score": 90
+      },
+      {
+        "id": "DEV_MULE_RING_01",
+        "label": "DEV_MULE_RING_01",
+        "group": "Device",
+        "risk_score": 90
+      },
+      {
+        "id": "DEV_SHELL_VPN_99",
+        "label": "DEV_SHELL_VPN_99",
+        "group": "Device",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.53.206",
+        "label": "192.168.53.206",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.23.65",
+        "label": "192.168.23.65",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.34.50",
+        "label": "192.168.34.50",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.78.116",
+        "label": "192.168.78.116",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.27.110",
+        "label": "192.168.27.110",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.33.73",
+        "label": "192.168.33.73",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.69.65",
+        "label": "192.168.69.65",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.19.115",
+        "label": "192.168.19.115",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.80.27",
+        "label": "192.168.80.27",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.16.168",
+        "label": "192.168.16.168",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.79.216",
+        "label": "192.168.79.216",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.11.250",
+        "label": "192.168.11.250",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.21.239",
+        "label": "192.168.21.239",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.40.44",
+        "label": "192.168.40.44",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.62.126",
+        "label": "192.168.62.126",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.71.56",
+        "label": "192.168.71.56",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.61.233",
+        "label": "192.168.61.233",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.17.44",
+        "label": "192.168.17.44",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.58.2",
+        "label": "192.168.58.2",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.59.69",
+        "label": "192.168.59.69",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.68.75",
+        "label": "192.168.68.75",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.64.180",
+        "label": "192.168.64.180",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.72.41",
+        "label": "192.168.72.41",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.34.77",
+        "label": "192.168.34.77",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.37.249",
+        "label": "192.168.37.249",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.17.150",
+        "label": "192.168.17.150",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.79.17",
+        "label": "192.168.79.17",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.50.16",
+        "label": "192.168.50.16",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.16.151",
+        "label": "192.168.16.151",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.71.130",
+        "label": "192.168.71.130",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.77.42",
+        "label": "192.168.77.42",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.17.247",
+        "label": "192.168.17.247",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.75.22",
+        "label": "192.168.75.22",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.33.19",
+        "label": "192.168.33.19",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.18.174",
+        "label": "192.168.18.174",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.40.105",
+        "label": "192.168.40.105",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.25.243",
+        "label": "192.168.25.243",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.41.150",
+        "label": "192.168.41.150",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "192.168.15.160",
+        "label": "192.168.15.160",
+        "group": "IPAddress",
+        "risk_score": 10
+      },
+      {
+        "id": "10.0.0.99",
+        "label": "10.0.0.99",
+        "group": "IPAddress",
+        "risk_score": 90
+      },
+      {
+        "id": "198.51.100.88",
+        "label": "198.51.100.88",
+        "group": "IPAddress",
+        "risk_score": 90
+      },
+      {
+        "id": "203.0.113.195",
+        "label": "203.0.113.195",
+        "group": "IPAddress",
+        "risk_score": 90
+      }
+    ],
+    "links": [
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0053",
+        "type": "TRANSFER",
+        "tx_id": "TX_00001",
+        "amount": 3589.29,
+        "timestamp": "2026-10-08 00:35:02",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0015",
+        "target": "ACC_0002",
+        "type": "TRANSFER",
+        "tx_id": "TX_00002",
+        "amount": 2987.15,
+        "timestamp": "2026-10-12 04:07:23",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0018",
+        "type": "TRANSFER",
+        "tx_id": "TX_00003",
+        "amount": 3896.37,
+        "timestamp": "2026-10-09 06:36:07",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0023",
+        "target": "ACC_0042",
+        "type": "TRANSFER",
+        "tx_id": "TX_00004",
+        "amount": 2316.86,
+        "timestamp": "2026-10-15 12:22:05",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0002",
+        "type": "TRANSFER",
+        "tx_id": "TX_00005",
+        "amount": 563.27,
+        "timestamp": "2026-10-08 20:10:07",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0012",
+        "target": "ACC_0038",
+        "type": "TRANSFER",
+        "tx_id": "TX_00006",
+        "amount": 4333.28,
+        "timestamp": "2026-10-08 22:38:43",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0007",
+        "type": "TRANSFER",
+        "tx_id": "TX_00007",
+        "amount": 2704.74,
+        "timestamp": "2026-10-10 21:22:38",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0047",
+        "target": "ACC_0051",
+        "type": "TRANSFER",
+        "tx_id": "TX_00008",
+        "amount": 1445.86,
+        "timestamp": "2026-10-14 21:55:31",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0008",
+        "target": "ACC_0025",
+        "type": "TRANSFER",
+        "tx_id": "TX_00009",
+        "amount": 4052.8,
+        "timestamp": "2026-10-07 02:43:44",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0017",
+        "target": "ACC_0003",
+        "type": "TRANSFER",
+        "tx_id": "TX_00010",
+        "amount": 3204.09,
+        "timestamp": "2026-10-02 12:59:06",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0034",
+        "target": "ACC_0060",
+        "type": "TRANSFER",
+        "tx_id": "TX_00011",
+        "amount": 3638.97,
+        "timestamp": "2026-10-07 06:46:52",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0024",
+        "target": "ACC_0028",
+        "type": "TRANSFER",
+        "tx_id": "TX_00012",
+        "amount": 361.38,
+        "timestamp": "2026-10-10 12:21:19",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0021",
+        "type": "TRANSFER",
+        "tx_id": "TX_00013",
+        "amount": 3002.07,
+        "timestamp": "2026-10-05 12:35:58",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0047",
+        "target": "ACC_0058",
+        "type": "TRANSFER",
+        "tx_id": "TX_00014",
+        "amount": 1386.43,
+        "timestamp": "2026-10-10 00:10:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0043",
+        "target": "ACC_0027",
+        "type": "TRANSFER",
+        "tx_id": "TX_00015",
+        "amount": 1501.51,
+        "timestamp": "2026-10-09 16:13:53",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "ACC_0009",
+        "type": "TRANSFER",
+        "tx_id": "TX_00016",
+        "amount": 903.69,
+        "timestamp": "2026-10-11 16:52:05",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "ACC_0048",
+        "type": "TRANSFER",
+        "tx_id": "TX_00017",
+        "amount": 4067.48,
+        "timestamp": "2026-10-16 07:31:40",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0026",
+        "type": "TRANSFER",
+        "tx_id": "TX_00018",
+        "amount": 2488.32,
+        "timestamp": "2026-10-02 12:14:11",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00019",
+        "amount": 985.31,
+        "timestamp": "2026-10-10 07:43:25",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0030",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00020",
+        "amount": 2017.61,
+        "timestamp": "2026-10-07 16:29:24",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "ACC_0031",
+        "type": "TRANSFER",
+        "tx_id": "TX_00021",
+        "amount": 3582.12,
+        "timestamp": "2026-10-06 14:51:08",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0043",
+        "target": "ACC_0006",
+        "type": "TRANSFER",
+        "tx_id": "TX_00022",
+        "amount": 1312.85,
+        "timestamp": "2026-10-10 15:15:40",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "ACC_0053",
+        "type": "TRANSFER",
+        "tx_id": "TX_00023",
+        "amount": 4286.4,
+        "timestamp": "2026-10-08 04:49:15",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "ACC_0020",
+        "type": "TRANSFER",
+        "tx_id": "TX_00024",
+        "amount": 1049.65,
+        "timestamp": "2026-10-07 08:00:05",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0010",
+        "target": "ACC_0002",
+        "type": "TRANSFER",
+        "tx_id": "TX_00025",
+        "amount": 255.65,
+        "timestamp": "2026-10-14 00:47:13",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0055",
+        "type": "TRANSFER",
+        "tx_id": "TX_00026",
+        "amount": 3469.78,
+        "timestamp": "2026-10-13 13:17:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0027",
+        "target": "ACC_0057",
+        "type": "TRANSFER",
+        "tx_id": "TX_00027",
+        "amount": 2852.46,
+        "timestamp": "2026-10-07 05:16:00",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0046",
+        "target": "ACC_0045",
+        "type": "TRANSFER",
+        "tx_id": "TX_00028",
+        "amount": 1758.7,
+        "timestamp": "2026-10-12 04:48:52",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0016",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00029",
+        "amount": 2969.46,
+        "timestamp": "2026-10-02 15:13:48",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0058",
+        "target": "ACC_0049",
+        "type": "TRANSFER",
+        "tx_id": "TX_00030",
+        "amount": 3878.96,
+        "timestamp": "2026-10-05 02:05:29",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0050",
+        "target": "ACC_0028",
+        "type": "TRANSFER",
+        "tx_id": "TX_00031",
+        "amount": 1023.84,
+        "timestamp": "2026-10-15 01:43:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0030",
+        "target": "ACC_0004",
+        "type": "TRANSFER",
+        "tx_id": "TX_00032",
+        "amount": 2530.46,
+        "timestamp": "2026-10-05 10:41:47",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0030",
+        "target": "ACC_0009",
+        "type": "TRANSFER",
+        "tx_id": "TX_00033",
+        "amount": 3616.3,
+        "timestamp": "2026-10-15 09:24:24",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00034",
+        "amount": 1461.98,
+        "timestamp": "2026-10-13 05:49:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0053",
+        "type": "TRANSFER",
+        "tx_id": "TX_00035",
+        "amount": 3250.77,
+        "timestamp": "2026-10-14 18:03:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0028",
+        "target": "ACC_0054",
+        "type": "TRANSFER",
+        "tx_id": "TX_00036",
+        "amount": 4085.5,
+        "timestamp": "2026-10-13 07:45:48",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0058",
+        "target": "ACC_0011",
+        "type": "TRANSFER",
+        "tx_id": "TX_00037",
+        "amount": 3359.27,
+        "timestamp": "2026-10-14 00:31:04",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0029",
+        "target": "ACC_0017",
+        "type": "TRANSFER",
+        "tx_id": "TX_00038",
+        "amount": 3395.41,
+        "timestamp": "2026-10-09 05:32:44",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0050",
+        "target": "ACC_0034",
+        "type": "TRANSFER",
+        "tx_id": "TX_00039",
+        "amount": 2206.46,
+        "timestamp": "2026-10-08 07:22:14",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0018",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00040",
+        "amount": 394.8,
+        "timestamp": "2026-10-09 10:26:55",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0016",
+        "target": "ACC_0018",
+        "type": "TRANSFER",
+        "tx_id": "TX_00041",
+        "amount": 1544.52,
+        "timestamp": "2026-10-15 14:39:41",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "ACC_0009",
+        "type": "TRANSFER",
+        "tx_id": "TX_00042",
+        "amount": 721.2,
+        "timestamp": "2026-10-11 19:08:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0045",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00043",
+        "amount": 3193.57,
+        "timestamp": "2026-10-04 01:24:57",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0027",
+        "target": "ACC_0022",
+        "type": "TRANSFER",
+        "tx_id": "TX_00044",
+        "amount": 2464.62,
+        "timestamp": "2026-10-12 14:12:21",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0004",
+        "target": "ACC_0014",
+        "type": "TRANSFER",
+        "tx_id": "TX_00045",
+        "amount": 3756.37,
+        "timestamp": "2026-10-11 22:53:12",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0058",
+        "target": "ACC_0050",
+        "type": "TRANSFER",
+        "tx_id": "TX_00046",
+        "amount": 2649.15,
+        "timestamp": "2026-10-02 23:22:41",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0055",
+        "target": "ACC_0057",
+        "type": "TRANSFER",
+        "tx_id": "TX_00047",
+        "amount": 3456.9,
+        "timestamp": "2026-10-11 17:35:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0031",
+        "target": "ACC_0001",
+        "type": "TRANSFER",
+        "tx_id": "TX_00048",
+        "amount": 4245.2,
+        "timestamp": "2026-10-09 17:57:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0049",
+        "target": "ACC_0025",
+        "type": "TRANSFER",
+        "tx_id": "TX_00049",
+        "amount": 3847.84,
+        "timestamp": "2026-10-12 16:05:51",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0035",
+        "target": "ACC_0048",
+        "type": "TRANSFER",
+        "tx_id": "TX_00050",
+        "amount": 3319.12,
+        "timestamp": "2026-10-07 20:28:23",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0032",
+        "target": "ACC_0015",
+        "type": "TRANSFER",
+        "tx_id": "TX_00051",
+        "amount": 1264.56,
+        "timestamp": "2026-10-14 06:54:25",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0025",
+        "type": "TRANSFER",
+        "tx_id": "TX_00052",
+        "amount": 1545.78,
+        "timestamp": "2026-10-12 07:31:53",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0047",
+        "target": "ACC_0011",
+        "type": "TRANSFER",
+        "tx_id": "TX_00053",
+        "amount": 3790.25,
+        "timestamp": "2026-10-05 14:20:54",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0035",
+        "type": "TRANSFER",
+        "tx_id": "TX_00054",
+        "amount": 170.0,
+        "timestamp": "2026-10-12 01:32:00",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0038",
+        "target": "ACC_0037",
+        "type": "TRANSFER",
+        "tx_id": "TX_00055",
+        "amount": 3000.35,
+        "timestamp": "2026-10-04 12:54:10",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0042",
+        "target": "ACC_0028",
+        "type": "TRANSFER",
+        "tx_id": "TX_00056",
+        "amount": 653.86,
+        "timestamp": "2026-10-13 16:57:31",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0012",
+        "target": "ACC_0004",
+        "type": "TRANSFER",
+        "tx_id": "TX_00057",
+        "amount": 1207.7,
+        "timestamp": "2026-10-10 10:41:48",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0014",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00058",
+        "amount": 1504.46,
+        "timestamp": "2026-10-11 16:51:25",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0018",
+        "target": "ACC_0049",
+        "type": "TRANSFER",
+        "tx_id": "TX_00059",
+        "amount": 4282.86,
+        "timestamp": "2026-10-12 17:34:45",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0017",
+        "target": "ACC_0054",
+        "type": "TRANSFER",
+        "tx_id": "TX_00060",
+        "amount": 414.48,
+        "timestamp": "2026-10-02 23:17:29",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0048",
+        "target": "ACC_0035",
+        "type": "TRANSFER",
+        "tx_id": "TX_00061",
+        "amount": 281.78,
+        "timestamp": "2026-10-10 23:52:00",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0015",
+        "target": "ACC_0042",
+        "type": "TRANSFER",
+        "tx_id": "TX_00062",
+        "amount": 355.35,
+        "timestamp": "2026-10-03 11:27:07",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0049",
+        "target": "ACC_0002",
+        "type": "TRANSFER",
+        "tx_id": "TX_00063",
+        "amount": 4275.77,
+        "timestamp": "2026-10-07 08:08:09",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0054",
+        "target": "ACC_0002",
+        "type": "TRANSFER",
+        "tx_id": "TX_00064",
+        "amount": 2814.94,
+        "timestamp": "2026-10-08 06:57:45",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0009",
+        "target": "ACC_0031",
+        "type": "TRANSFER",
+        "tx_id": "TX_00065",
+        "amount": 3029.09,
+        "timestamp": "2026-10-16 04:32:09",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0014",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00066",
+        "amount": 3162.62,
+        "timestamp": "2026-10-11 10:53:49",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0011",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00067",
+        "amount": 2752.25,
+        "timestamp": "2026-10-05 06:43:12",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0050",
+        "target": "ACC_0053",
+        "type": "TRANSFER",
+        "tx_id": "TX_00068",
+        "amount": 778.76,
+        "timestamp": "2026-10-10 01:11:35",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0007",
+        "target": "ACC_0038",
+        "type": "TRANSFER",
+        "tx_id": "TX_00069",
+        "amount": 164.27,
+        "timestamp": "2026-10-10 01:43:41",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0037",
+        "target": "ACC_0044",
+        "type": "TRANSFER",
+        "tx_id": "TX_00070",
+        "amount": 4090.72,
+        "timestamp": "2026-10-11 14:37:55",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0026",
+        "target": "ACC_0046",
+        "type": "TRANSFER",
+        "tx_id": "TX_00071",
+        "amount": 932.57,
+        "timestamp": "2026-10-08 09:28:12",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0007",
+        "target": "ACC_0045",
+        "type": "TRANSFER",
+        "tx_id": "TX_00072",
+        "amount": 3487.54,
+        "timestamp": "2026-10-05 10:31:10",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0051",
+        "target": "ACC_0037",
+        "type": "TRANSFER",
+        "tx_id": "TX_00073",
+        "amount": 3532.73,
+        "timestamp": "2026-10-10 22:15:39",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0035",
+        "target": "ACC_0028",
+        "type": "TRANSFER",
+        "tx_id": "TX_00074",
+        "amount": 2993.77,
+        "timestamp": "2026-10-04 04:10:12",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "ACC_0042",
+        "type": "TRANSFER",
+        "tx_id": "TX_00075",
+        "amount": 1568.48,
+        "timestamp": "2026-10-12 16:42:07",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0053",
+        "target": "ACC_0032",
+        "type": "TRANSFER",
+        "tx_id": "TX_00076",
+        "amount": 519.65,
+        "timestamp": "2026-10-11 06:59:23",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "ACC_0058",
+        "type": "TRANSFER",
+        "tx_id": "TX_00077",
+        "amount": 3737.75,
+        "timestamp": "2026-10-06 05:07:25",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0028",
+        "target": "ACC_0012",
+        "type": "TRANSFER",
+        "tx_id": "TX_00078",
+        "amount": 3315.39,
+        "timestamp": "2026-10-09 01:20:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0052",
+        "type": "TRANSFER",
+        "tx_id": "TX_00079",
+        "amount": 4142.3,
+        "timestamp": "2026-10-14 05:39:27",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0030",
+        "target": "ACC_0028",
+        "type": "TRANSFER",
+        "tx_id": "TX_00080",
+        "amount": 3724.52,
+        "timestamp": "2026-10-09 00:21:06",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0021",
+        "target": "ACC_0055",
+        "type": "TRANSFER",
+        "tx_id": "TX_00081",
+        "amount": 1142.45,
+        "timestamp": "2026-10-04 14:29:05",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0018",
+        "target": "ACC_0057",
+        "type": "TRANSFER",
+        "tx_id": "TX_00082",
+        "amount": 2056.07,
+        "timestamp": "2026-10-13 18:42:44",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0037",
+        "target": "ACC_0040",
+        "type": "TRANSFER",
+        "tx_id": "TX_00083",
+        "amount": 3023.44,
+        "timestamp": "2026-10-10 15:57:54",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0032",
+        "type": "TRANSFER",
+        "tx_id": "TX_00084",
+        "amount": 3836.74,
+        "timestamp": "2026-10-06 21:55:45",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0032",
+        "target": "ACC_0014",
+        "type": "TRANSFER",
+        "tx_id": "TX_00085",
+        "amount": 1628.97,
+        "timestamp": "2026-10-08 18:30:04",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0018",
+        "type": "TRANSFER",
+        "tx_id": "TX_00086",
+        "amount": 3967.42,
+        "timestamp": "2026-10-09 04:56:17",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "ACC_0001",
+        "type": "TRANSFER",
+        "tx_id": "TX_00087",
+        "amount": 2348.99,
+        "timestamp": "2026-10-07 03:17:54",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "ACC_0016",
+        "type": "TRANSFER",
+        "tx_id": "TX_00088",
+        "amount": 3254.33,
+        "timestamp": "2026-10-14 08:37:02",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "ACC_0049",
+        "type": "TRANSFER",
+        "tx_id": "TX_00089",
+        "amount": 1119.44,
+        "timestamp": "2026-10-14 01:20:39",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0042",
+        "target": "ACC_0046",
+        "type": "TRANSFER",
+        "tx_id": "TX_00090",
+        "amount": 2234.15,
+        "timestamp": "2026-10-02 22:02:41",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00091",
+        "amount": 1036.1,
+        "timestamp": "2026-10-08 09:44:07",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0043",
+        "type": "TRANSFER",
+        "tx_id": "TX_00092",
+        "amount": 2637.92,
+        "timestamp": "2026-10-13 23:41:39",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "ACC_0034",
+        "type": "TRANSFER",
+        "tx_id": "TX_00093",
+        "amount": 1579.72,
+        "timestamp": "2026-10-15 20:37:28",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0023",
+        "type": "TRANSFER",
+        "tx_id": "TX_00094",
+        "amount": 3177.7,
+        "timestamp": "2026-10-09 01:49:12",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0017",
+        "type": "TRANSFER",
+        "tx_id": "TX_00095",
+        "amount": 1075.89,
+        "timestamp": "2026-10-07 04:11:18",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0021",
+        "target": "ACC_0008",
+        "type": "TRANSFER",
+        "tx_id": "TX_00096",
+        "amount": 3355.82,
+        "timestamp": "2026-10-06 23:51:27",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0013",
+        "target": "ACC_0014",
+        "type": "TRANSFER",
+        "tx_id": "TX_00097",
+        "amount": 3336.79,
+        "timestamp": "2026-10-09 05:04:21",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0047",
+        "target": "ACC_0038",
+        "type": "TRANSFER",
+        "tx_id": "TX_00098",
+        "amount": 4395.9,
+        "timestamp": "2026-10-15 05:37:23",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00099",
+        "amount": 4413.27,
+        "timestamp": "2026-10-07 05:04:54",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0019",
+        "target": "ACC_0015",
+        "type": "TRANSFER",
+        "tx_id": "TX_00100",
+        "amount": 1655.92,
+        "timestamp": "2026-10-09 20:05:01",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0001",
+        "target": "ACC_0046",
+        "type": "TRANSFER",
+        "tx_id": "TX_00101",
+        "amount": 2426.9,
+        "timestamp": "2026-10-09 03:47:52",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0004",
+        "type": "TRANSFER",
+        "tx_id": "TX_00102",
+        "amount": 2512.45,
+        "timestamp": "2026-10-05 13:33:47",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "ACC_0056",
+        "type": "TRANSFER",
+        "tx_id": "TX_00103",
+        "amount": 3399.93,
+        "timestamp": "2026-10-04 23:45:41",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0001",
+        "type": "TRANSFER",
+        "tx_id": "TX_00104",
+        "amount": 2604.59,
+        "timestamp": "2026-10-13 21:26:36",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0031",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00105",
+        "amount": 1566.14,
+        "timestamp": "2026-10-03 17:55:44",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0017",
+        "target": "ACC_0056",
+        "type": "TRANSFER",
+        "tx_id": "TX_00106",
+        "amount": 2175.89,
+        "timestamp": "2026-10-04 02:03:55",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0026",
+        "target": "ACC_0032",
+        "type": "TRANSFER",
+        "tx_id": "TX_00107",
+        "amount": 379.67,
+        "timestamp": "2026-10-03 19:13:46",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0010",
+        "target": "ACC_0052",
+        "type": "TRANSFER",
+        "tx_id": "TX_00108",
+        "amount": 2554.64,
+        "timestamp": "2026-10-09 20:59:49",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "ACC_0016",
+        "type": "TRANSFER",
+        "tx_id": "TX_00109",
+        "amount": 577.11,
+        "timestamp": "2026-10-12 14:26:20",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "ACC_0051",
+        "type": "TRANSFER",
+        "tx_id": "TX_00110",
+        "amount": 2801.96,
+        "timestamp": "2026-10-15 04:25:14",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0025",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00111",
+        "amount": 4092.84,
+        "timestamp": "2026-10-09 17:13:14",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0038",
+        "type": "TRANSFER",
+        "tx_id": "TX_00112",
+        "amount": 4455.64,
+        "timestamp": "2026-10-09 21:53:48",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0037",
+        "target": "ACC_0040",
+        "type": "TRANSFER",
+        "tx_id": "TX_00113",
+        "amount": 318.02,
+        "timestamp": "2026-10-04 21:48:27",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0049",
+        "target": "ACC_0014",
+        "type": "TRANSFER",
+        "tx_id": "TX_00114",
+        "amount": 2833.54,
+        "timestamp": "2026-10-08 22:10:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0043",
+        "target": "ACC_0006",
+        "type": "TRANSFER",
+        "tx_id": "TX_00115",
+        "amount": 748.9,
+        "timestamp": "2026-10-06 17:15:13",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "ACC_0005",
+        "type": "TRANSFER",
+        "tx_id": "TX_00116",
+        "amount": 746.57,
+        "timestamp": "2026-10-12 09:58:43",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0029",
+        "target": "ACC_0045",
+        "type": "TRANSFER",
+        "tx_id": "TX_00117",
+        "amount": 2692.46,
+        "timestamp": "2026-10-09 13:40:15",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0015",
+        "type": "TRANSFER",
+        "tx_id": "TX_00118",
+        "amount": 1332.07,
+        "timestamp": "2026-10-09 08:41:43",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0045",
+        "target": "ACC_0056",
+        "type": "TRANSFER",
+        "tx_id": "TX_00119",
+        "amount": 2070.44,
+        "timestamp": "2026-10-08 03:58:45",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0060",
+        "target": "ACC_0017",
+        "type": "TRANSFER",
+        "tx_id": "TX_00120",
+        "amount": 3555.83,
+        "timestamp": "2026-10-07 07:14:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0028",
+        "target": "ACC_0008",
+        "type": "TRANSFER",
+        "tx_id": "TX_00121",
+        "amount": 2473.3,
+        "timestamp": "2026-10-06 02:47:33",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0059",
+        "target": "ACC_0018",
+        "type": "TRANSFER",
+        "tx_id": "TX_00122",
+        "amount": 3728.51,
+        "timestamp": "2026-10-04 05:35:57",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0004",
+        "target": "ACC_0011",
+        "type": "TRANSFER",
+        "tx_id": "TX_00123",
+        "amount": 3577.2,
+        "timestamp": "2026-10-16 07:35:13",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0059",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00124",
+        "amount": 2004.23,
+        "timestamp": "2026-10-13 21:02:10",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0045",
+        "target": "ACC_0020",
+        "type": "TRANSFER",
+        "tx_id": "TX_00125",
+        "amount": 3163.81,
+        "timestamp": "2026-10-09 02:35:41",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "ACC_0035",
+        "type": "TRANSFER",
+        "tx_id": "TX_00126",
+        "amount": 2247.39,
+        "timestamp": "2026-10-04 10:51:38",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "ACC_0003",
+        "type": "TRANSFER",
+        "tx_id": "TX_00127",
+        "amount": 4007.93,
+        "timestamp": "2026-10-10 07:45:57",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "ACC_0017",
+        "type": "TRANSFER",
+        "tx_id": "TX_00128",
+        "amount": 165.1,
+        "timestamp": "2026-10-08 01:21:29",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "ACC_0054",
+        "type": "TRANSFER",
+        "tx_id": "TX_00129",
+        "amount": 3879.3,
+        "timestamp": "2026-10-03 00:05:06",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0049",
+        "target": "ACC_0044",
+        "type": "TRANSFER",
+        "tx_id": "TX_00130",
+        "amount": 3705.32,
+        "timestamp": "2026-10-16 11:41:17",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0049",
+        "type": "TRANSFER",
+        "tx_id": "TX_00131",
+        "amount": 3415.4,
+        "timestamp": "2026-10-13 22:05:11",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0034",
+        "target": "ACC_0042",
+        "type": "TRANSFER",
+        "tx_id": "TX_00132",
+        "amount": 2017.92,
+        "timestamp": "2026-10-09 06:02:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0012",
+        "target": "ACC_0038",
+        "type": "TRANSFER",
+        "tx_id": "TX_00133",
+        "amount": 1989.69,
+        "timestamp": "2026-10-14 10:27:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "ACC_0031",
+        "type": "TRANSFER",
+        "tx_id": "TX_00134",
+        "amount": 1598.43,
+        "timestamp": "2026-10-10 14:09:58",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0021",
+        "target": "ACC_0043",
+        "type": "TRANSFER",
+        "tx_id": "TX_00135",
+        "amount": 515.47,
+        "timestamp": "2026-10-06 09:41:14",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0027",
+        "type": "TRANSFER",
+        "tx_id": "TX_00136",
+        "amount": 3136.85,
+        "timestamp": "2026-10-09 11:53:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0043",
+        "target": "ACC_0026",
+        "type": "TRANSFER",
+        "tx_id": "TX_00137",
+        "amount": 3670.37,
+        "timestamp": "2026-10-15 20:27:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00138",
+        "amount": 441.87,
+        "timestamp": "2026-10-08 15:01:58",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0021",
+        "target": "ACC_0008",
+        "type": "TRANSFER",
+        "tx_id": "TX_00139",
+        "amount": 4367.32,
+        "timestamp": "2026-10-12 07:26:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0033",
+        "type": "TRANSFER",
+        "tx_id": "TX_00140",
+        "amount": 3720.93,
+        "timestamp": "2026-10-02 12:40:13",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0043",
+        "target": "ACC_0056",
+        "type": "TRANSFER",
+        "tx_id": "TX_00141",
+        "amount": 2464.54,
+        "timestamp": "2026-10-12 12:44:02",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0004",
+        "target": "ACC_0013",
+        "type": "TRANSFER",
+        "tx_id": "TX_00142",
+        "amount": 2357.06,
+        "timestamp": "2026-10-14 14:23:35",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00143",
+        "amount": 3431.96,
+        "timestamp": "2026-10-07 10:34:52",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0018",
+        "target": "ACC_0036",
+        "type": "TRANSFER",
+        "tx_id": "TX_00144",
+        "amount": 633.01,
+        "timestamp": "2026-10-09 11:47:20",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0029",
+        "target": "ACC_0057",
+        "type": "TRANSFER",
+        "tx_id": "TX_00145",
+        "amount": 3157.21,
+        "timestamp": "2026-10-05 10:44:08",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0041",
+        "type": "TRANSFER",
+        "tx_id": "TX_00146",
+        "amount": 2759.48,
+        "timestamp": "2026-10-08 07:24:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0046",
+        "target": "ACC_0011",
+        "type": "TRANSFER",
+        "tx_id": "TX_00147",
+        "amount": 1432.84,
+        "timestamp": "2026-10-02 19:57:57",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "ACC_0027",
+        "type": "TRANSFER",
+        "tx_id": "TX_00148",
+        "amount": 464.78,
+        "timestamp": "2026-10-05 06:05:45",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0030",
+        "target": "ACC_0008",
+        "type": "TRANSFER",
+        "tx_id": "TX_00149",
+        "amount": 2932.31,
+        "timestamp": "2026-10-06 05:41:40",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0032",
+        "target": "ACC_0060",
+        "type": "TRANSFER",
+        "tx_id": "TX_00150",
+        "amount": 3238.88,
+        "timestamp": "2026-10-14 20:26:21",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0046",
+        "target": "ACC_0018",
+        "type": "TRANSFER",
+        "tx_id": "TX_00151",
+        "amount": 1898.93,
+        "timestamp": "2026-10-14 05:04:34",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0031",
+        "target": "ACC_0016",
+        "type": "TRANSFER",
+        "tx_id": "TX_00152",
+        "amount": 2082.7,
+        "timestamp": "2026-10-06 00:15:36",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0025",
+        "target": "ACC_0013",
+        "type": "TRANSFER",
+        "tx_id": "TX_00153",
+        "amount": 4152.31,
+        "timestamp": "2026-10-14 20:04:18",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0048",
+        "target": "ACC_0057",
+        "type": "TRANSFER",
+        "tx_id": "TX_00154",
+        "amount": 657.46,
+        "timestamp": "2026-10-04 04:40:02",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0018",
+        "target": "ACC_0050",
+        "type": "TRANSFER",
+        "tx_id": "TX_00155",
+        "amount": 3565.53,
+        "timestamp": "2026-10-12 13:43:17",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0060",
+        "type": "TRANSFER",
+        "tx_id": "TX_00156",
+        "amount": 3555.34,
+        "timestamp": "2026-10-08 23:38:21",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0053",
+        "target": "ACC_0001",
+        "type": "TRANSFER",
+        "tx_id": "TX_00157",
+        "amount": 1308.63,
+        "timestamp": "2026-10-09 17:55:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0054",
+        "target": "ACC_0038",
+        "type": "TRANSFER",
+        "tx_id": "TX_00158",
+        "amount": 2630.66,
+        "timestamp": "2026-10-14 09:14:10",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00159",
+        "amount": 2037.14,
+        "timestamp": "2026-10-14 06:08:57",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0023",
+        "target": "ACC_0022",
+        "type": "TRANSFER",
+        "tx_id": "TX_00160",
+        "amount": 2506.03,
+        "timestamp": "2026-10-15 16:34:15",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0025",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00161",
+        "amount": 4201.19,
+        "timestamp": "2026-10-07 01:53:52",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0045",
+        "target": "ACC_0016",
+        "type": "TRANSFER",
+        "tx_id": "TX_00162",
+        "amount": 2594.5,
+        "timestamp": "2026-10-08 04:03:35",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0055",
+        "target": "ACC_0050",
+        "type": "TRANSFER",
+        "tx_id": "TX_00163",
+        "amount": 1877.95,
+        "timestamp": "2026-10-10 05:21:04",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0048",
+        "target": "ACC_0031",
+        "type": "TRANSFER",
+        "tx_id": "TX_00164",
+        "amount": 3188.26,
+        "timestamp": "2026-10-11 18:04:59",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0025",
+        "target": "ACC_0043",
+        "type": "TRANSFER",
+        "tx_id": "TX_00165",
+        "amount": 3576.15,
+        "timestamp": "2026-10-06 04:36:27",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0032",
+        "target": "ACC_0003",
+        "type": "TRANSFER",
+        "tx_id": "TX_00166",
+        "amount": 611.8,
+        "timestamp": "2026-10-10 13:24:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0007",
+        "type": "TRANSFER",
+        "tx_id": "TX_00167",
+        "amount": 3940.15,
+        "timestamp": "2026-10-13 04:29:49",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0007",
+        "target": "ACC_0034",
+        "type": "TRANSFER",
+        "tx_id": "TX_00168",
+        "amount": 4101.47,
+        "timestamp": "2026-10-02 20:56:26",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0047",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00169",
+        "amount": 1874.4,
+        "timestamp": "2026-10-06 05:55:18",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0031",
+        "type": "TRANSFER",
+        "tx_id": "TX_00170",
+        "amount": 3527.79,
+        "timestamp": "2026-10-08 22:23:13",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0040",
+        "type": "TRANSFER",
+        "tx_id": "TX_00171",
+        "amount": 3132.54,
+        "timestamp": "2026-10-04 10:47:13",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0055",
+        "target": "ACC_0022",
+        "type": "TRANSFER",
+        "tx_id": "TX_00172",
+        "amount": 3842.92,
+        "timestamp": "2026-10-15 10:51:27",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0025",
+        "target": "ACC_0021",
+        "type": "TRANSFER",
+        "tx_id": "TX_00173",
+        "amount": 2839.26,
+        "timestamp": "2026-10-14 08:15:00",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0035",
+        "type": "TRANSFER",
+        "tx_id": "TX_00174",
+        "amount": 209.75,
+        "timestamp": "2026-10-04 03:51:28",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0016",
+        "target": "ACC_0041",
+        "type": "TRANSFER",
+        "tx_id": "TX_00175",
+        "amount": 3095.58,
+        "timestamp": "2026-10-09 11:24:37",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0015",
+        "target": "ACC_0048",
+        "type": "TRANSFER",
+        "tx_id": "TX_00176",
+        "amount": 452.19,
+        "timestamp": "2026-10-04 21:20:50",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0049",
+        "target": "ACC_0041",
+        "type": "TRANSFER",
+        "tx_id": "TX_00177",
+        "amount": 3182.31,
+        "timestamp": "2026-10-04 22:32:58",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0029",
+        "target": "ACC_0011",
+        "type": "TRANSFER",
+        "tx_id": "TX_00178",
+        "amount": 3138.31,
+        "timestamp": "2026-10-03 04:51:46",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0021",
+        "type": "TRANSFER",
+        "tx_id": "TX_00179",
+        "amount": 3592.84,
+        "timestamp": "2026-10-09 14:53:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0023",
+        "target": "ACC_0024",
+        "type": "TRANSFER",
+        "tx_id": "TX_00180",
+        "amount": 1966.56,
+        "timestamp": "2026-10-08 10:15:19",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0034",
+        "target": "ACC_0027",
+        "type": "TRANSFER",
+        "tx_id": "TX_00181",
+        "amount": 2568.38,
+        "timestamp": "2026-10-06 20:53:26",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0011",
+        "target": "ACC_0012",
+        "type": "TRANSFER",
+        "tx_id": "TX_00182",
+        "amount": 401.41,
+        "timestamp": "2026-10-11 18:50:53",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0044",
+        "type": "TRANSFER",
+        "tx_id": "TX_00183",
+        "amount": 1121.69,
+        "timestamp": "2026-10-05 23:22:19",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0015",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00184",
+        "amount": 2888.68,
+        "timestamp": "2026-10-13 15:43:09",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0017",
+        "target": "ACC_0043",
+        "type": "TRANSFER",
+        "tx_id": "TX_00185",
+        "amount": 91.82,
+        "timestamp": "2026-10-13 19:01:46",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0058",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00186",
+        "amount": 3065.37,
+        "timestamp": "2026-10-06 08:01:38",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00187",
+        "amount": 4256.3,
+        "timestamp": "2026-10-09 18:16:11",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "ACC_0028",
+        "type": "TRANSFER",
+        "tx_id": "TX_00188",
+        "amount": 3121.9,
+        "timestamp": "2026-10-13 14:07:34",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0055",
+        "target": "ACC_0020",
+        "type": "TRANSFER",
+        "tx_id": "TX_00189",
+        "amount": 936.52,
+        "timestamp": "2026-10-11 20:06:00",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0055",
+        "target": "ACC_0031",
+        "type": "TRANSFER",
+        "tx_id": "TX_00190",
+        "amount": 524.61,
+        "timestamp": "2026-10-11 18:09:38",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0037",
+        "target": "ACC_0023",
+        "type": "TRANSFER",
+        "tx_id": "TX_00191",
+        "amount": 2607.91,
+        "timestamp": "2026-10-09 15:59:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0054",
+        "type": "TRANSFER",
+        "tx_id": "TX_00192",
+        "amount": 2979.12,
+        "timestamp": "2026-10-09 03:53:47",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0001",
+        "target": "ACC_0037",
+        "type": "TRANSFER",
+        "tx_id": "TX_00193",
+        "amount": 3899.55,
+        "timestamp": "2026-10-03 16:34:13",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0059",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00194",
+        "amount": 3366.02,
+        "timestamp": "2026-10-09 10:43:12",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0050",
+        "target": "ACC_0052",
+        "type": "TRANSFER",
+        "tx_id": "TX_00195",
+        "amount": 1074.03,
+        "timestamp": "2026-10-11 01:14:30",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0015",
+        "target": "ACC_0041",
+        "type": "TRANSFER",
+        "tx_id": "TX_00196",
+        "amount": 896.09,
+        "timestamp": "2026-10-08 14:00:02",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "ACC_0049",
+        "type": "TRANSFER",
+        "tx_id": "TX_00197",
+        "amount": 3258.13,
+        "timestamp": "2026-10-05 19:40:46",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "ACC_0007",
+        "type": "TRANSFER",
+        "tx_id": "TX_00198",
+        "amount": 4070.15,
+        "timestamp": "2026-10-03 10:57:55",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0051",
+        "type": "TRANSFER",
+        "tx_id": "TX_00199",
+        "amount": 2011.66,
+        "timestamp": "2026-10-11 08:32:49",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0047",
+        "target": "ACC_0009",
+        "type": "TRANSFER",
+        "tx_id": "TX_00200",
+        "amount": 451.09,
+        "timestamp": "2026-10-09 15:54:51",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0021",
+        "target": "ACC_0048",
+        "type": "TRANSFER",
+        "tx_id": "TX_00201",
+        "amount": 1898.99,
+        "timestamp": "2026-10-07 08:58:17",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0009",
+        "target": "ACC_0051",
+        "type": "TRANSFER",
+        "tx_id": "TX_00202",
+        "amount": 2450.36,
+        "timestamp": "2026-10-11 09:07:38",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0034",
+        "target": "ACC_0033",
+        "type": "TRANSFER",
+        "tx_id": "TX_00203",
+        "amount": 4115.02,
+        "timestamp": "2026-10-06 11:51:14",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0017",
+        "target": "ACC_0059",
+        "type": "TRANSFER",
+        "tx_id": "TX_00204",
+        "amount": 3719.87,
+        "timestamp": "2026-10-14 04:41:48",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0052",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00205",
+        "amount": 3372.19,
+        "timestamp": "2026-10-10 17:18:57",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0052",
+        "target": "ACC_0008",
+        "type": "TRANSFER",
+        "tx_id": "TX_00206",
+        "amount": 2134.07,
+        "timestamp": "2026-10-04 07:51:54",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0010",
+        "target": "ACC_0049",
+        "type": "TRANSFER",
+        "tx_id": "TX_00207",
+        "amount": 4350.93,
+        "timestamp": "2026-10-12 03:30:32",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0055",
+        "target": "ACC_0052",
+        "type": "TRANSFER",
+        "tx_id": "TX_00208",
+        "amount": 2530.04,
+        "timestamp": "2026-10-04 16:36:18",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0051",
+        "target": "ACC_0026",
+        "type": "TRANSFER",
+        "tx_id": "TX_00209",
+        "amount": 111.94,
+        "timestamp": "2026-10-15 12:34:33",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0008",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00210",
+        "amount": 1690.21,
+        "timestamp": "2026-10-08 20:43:12",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0038",
+        "target": "ACC_0025",
+        "type": "TRANSFER",
+        "tx_id": "TX_00211",
+        "amount": 3709.76,
+        "timestamp": "2026-10-11 12:23:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0007",
+        "target": "ACC_0044",
+        "type": "TRANSFER",
+        "tx_id": "TX_00212",
+        "amount": 1090.51,
+        "timestamp": "2026-10-03 02:34:40",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0057",
+        "type": "TRANSFER",
+        "tx_id": "TX_00213",
+        "amount": 4247.1,
+        "timestamp": "2026-10-10 11:04:39",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0059",
+        "target": "ACC_0040",
+        "type": "TRANSFER",
+        "tx_id": "TX_00214",
+        "amount": 1035.08,
+        "timestamp": "2026-10-04 00:49:35",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "ACC_0053",
+        "type": "TRANSFER",
+        "tx_id": "TX_00215",
+        "amount": 2115.99,
+        "timestamp": "2026-10-09 20:02:18",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0042",
+        "target": "ACC_0027",
+        "type": "TRANSFER",
+        "tx_id": "TX_00216",
+        "amount": 569.21,
+        "timestamp": "2026-10-03 14:24:59",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0020",
+        "type": "TRANSFER",
+        "tx_id": "TX_00217",
+        "amount": 4481.88,
+        "timestamp": "2026-10-05 07:38:42",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0007",
+        "target": "ACC_0016",
+        "type": "TRANSFER",
+        "tx_id": "TX_00218",
+        "amount": 3998.3,
+        "timestamp": "2026-10-05 19:01:48",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0025",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00219",
+        "amount": 1701.0,
+        "timestamp": "2026-10-15 14:41:05",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0027",
+        "target": "ACC_0038",
+        "type": "TRANSFER",
+        "tx_id": "TX_00220",
+        "amount": 3353.1,
+        "timestamp": "2026-10-06 06:00:58",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0057",
+        "target": "ACC_0027",
+        "type": "TRANSFER",
+        "tx_id": "TX_00221",
+        "amount": 2964.4,
+        "timestamp": "2026-10-14 09:03:55",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0027",
+        "type": "TRANSFER",
+        "tx_id": "TX_00222",
+        "amount": 4228.79,
+        "timestamp": "2026-10-09 06:57:37",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0045",
+        "type": "TRANSFER",
+        "tx_id": "TX_00223",
+        "amount": 1698.86,
+        "timestamp": "2026-10-13 06:17:21",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0029",
+        "target": "ACC_0016",
+        "type": "TRANSFER",
+        "tx_id": "TX_00224",
+        "amount": 3856.75,
+        "timestamp": "2026-10-04 21:52:41",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "ACC_0024",
+        "type": "TRANSFER",
+        "tx_id": "TX_00225",
+        "amount": 2472.87,
+        "timestamp": "2026-10-11 04:56:33",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0004",
+        "target": "ACC_0026",
+        "type": "TRANSFER",
+        "tx_id": "TX_00226",
+        "amount": 1277.67,
+        "timestamp": "2026-10-05 11:09:47",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0055",
+        "target": "ACC_0053",
+        "type": "TRANSFER",
+        "tx_id": "TX_00227",
+        "amount": 2073.49,
+        "timestamp": "2026-10-07 15:33:38",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0042",
+        "target": "ACC_0041",
+        "type": "TRANSFER",
+        "tx_id": "TX_00228",
+        "amount": 2707.3,
+        "timestamp": "2026-10-03 00:26:29",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0004",
+        "target": "ACC_0051",
+        "type": "TRANSFER",
+        "tx_id": "TX_00229",
+        "amount": 1534.12,
+        "timestamp": "2026-10-05 13:21:21",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0051",
+        "target": "ACC_0037",
+        "type": "TRANSFER",
+        "tx_id": "TX_00230",
+        "amount": 963.16,
+        "timestamp": "2026-10-15 22:50:57",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0014",
+        "target": "ACC_0038",
+        "type": "TRANSFER",
+        "tx_id": "TX_00231",
+        "amount": 1010.98,
+        "timestamp": "2026-10-08 03:43:53",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0050",
+        "type": "TRANSFER",
+        "tx_id": "TX_00232",
+        "amount": 706.62,
+        "timestamp": "2026-10-02 13:39:06",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0018",
+        "target": "ACC_0055",
+        "type": "TRANSFER",
+        "tx_id": "TX_00233",
+        "amount": 4428.93,
+        "timestamp": "2026-10-05 15:43:33",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0035",
+        "target": "ACC_0017",
+        "type": "TRANSFER",
+        "tx_id": "TX_00234",
+        "amount": 3603.39,
+        "timestamp": "2026-10-05 04:02:12",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0043",
+        "target": "ACC_0056",
+        "type": "TRANSFER",
+        "tx_id": "TX_00235",
+        "amount": 164.72,
+        "timestamp": "2026-10-02 20:39:24",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0023",
+        "target": "ACC_0051",
+        "type": "TRANSFER",
+        "tx_id": "TX_00236",
+        "amount": 3558.52,
+        "timestamp": "2026-10-10 08:36:37",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0012",
+        "type": "TRANSFER",
+        "tx_id": "TX_00237",
+        "amount": 1230.89,
+        "timestamp": "2026-10-05 13:50:31",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0048",
+        "target": "ACC_0027",
+        "type": "TRANSFER",
+        "tx_id": "TX_00238",
+        "amount": 2391.08,
+        "timestamp": "2026-10-04 01:01:30",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0031",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00239",
+        "amount": 3512.18,
+        "timestamp": "2026-10-14 22:58:58",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0038",
+        "target": "ACC_0007",
+        "type": "TRANSFER",
+        "tx_id": "TX_00240",
+        "amount": 2061.42,
+        "timestamp": "2026-10-07 21:03:43",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0003",
+        "type": "TRANSFER",
+        "tx_id": "TX_00241",
+        "amount": 3286.23,
+        "timestamp": "2026-10-15 03:46:02",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00242",
+        "amount": 2912.87,
+        "timestamp": "2026-10-03 06:08:47",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0004",
+        "target": "ACC_0031",
+        "type": "TRANSFER",
+        "tx_id": "TX_00243",
+        "amount": 3820.48,
+        "timestamp": "2026-10-12 20:19:20",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "ACC_0007",
+        "type": "TRANSFER",
+        "tx_id": "TX_00244",
+        "amount": 2231.7,
+        "timestamp": "2026-10-13 06:23:37",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0058",
+        "type": "TRANSFER",
+        "tx_id": "TX_00245",
+        "amount": 409.52,
+        "timestamp": "2026-10-06 02:24:38",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0009",
+        "type": "TRANSFER",
+        "tx_id": "TX_00246",
+        "amount": 1273.82,
+        "timestamp": "2026-10-15 19:26:26",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0046",
+        "target": "ACC_0021",
+        "type": "TRANSFER",
+        "tx_id": "TX_00247",
+        "amount": 1745.02,
+        "timestamp": "2026-10-15 09:04:18",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0019",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00248",
+        "amount": 2299.7,
+        "timestamp": "2026-10-12 22:36:33",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0007",
+        "target": "ACC_0051",
+        "type": "TRANSFER",
+        "tx_id": "TX_00249",
+        "amount": 3172.92,
+        "timestamp": "2026-10-15 21:10:33",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0047",
+        "target": "ACC_0056",
+        "type": "TRANSFER",
+        "tx_id": "TX_00250",
+        "amount": 1006.85,
+        "timestamp": "2026-10-13 11:02:59",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0057",
+        "target": "ACC_0015",
+        "type": "TRANSFER",
+        "tx_id": "TX_00251",
+        "amount": 1891.47,
+        "timestamp": "2026-10-13 12:10:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0026",
+        "target": "ACC_0027",
+        "type": "TRANSFER",
+        "tx_id": "TX_00252",
+        "amount": 3296.78,
+        "timestamp": "2026-10-10 02:04:21",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0028",
+        "target": "ACC_0021",
+        "type": "TRANSFER",
+        "tx_id": "TX_00253",
+        "amount": 3009.73,
+        "timestamp": "2026-10-11 14:02:46",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0010",
+        "target": "ACC_0044",
+        "type": "TRANSFER",
+        "tx_id": "TX_00254",
+        "amount": 4157.28,
+        "timestamp": "2026-10-04 03:06:28",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "ACC_0054",
+        "type": "TRANSFER",
+        "tx_id": "TX_00255",
+        "amount": 429.87,
+        "timestamp": "2026-10-12 23:35:10",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0007",
+        "target": "ACC_0048",
+        "type": "TRANSFER",
+        "tx_id": "TX_00256",
+        "amount": 3337.64,
+        "timestamp": "2026-10-05 15:47:51",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "ACC_0004",
+        "type": "TRANSFER",
+        "tx_id": "TX_00257",
+        "amount": 2659.77,
+        "timestamp": "2026-10-16 03:08:52",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "ACC_0022",
+        "type": "TRANSFER",
+        "tx_id": "TX_00258",
+        "amount": 3031.56,
+        "timestamp": "2026-10-12 11:18:48",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0023",
+        "target": "ACC_0056",
+        "type": "TRANSFER",
+        "tx_id": "TX_00259",
+        "amount": 3010.77,
+        "timestamp": "2026-10-12 18:22:42",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0059",
+        "type": "TRANSFER",
+        "tx_id": "TX_00260",
+        "amount": 3258.72,
+        "timestamp": "2026-10-09 11:33:22",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "ACC_0020",
+        "type": "TRANSFER",
+        "tx_id": "TX_00261",
+        "amount": 1614.83,
+        "timestamp": "2026-10-14 19:35:21",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0014",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00262",
+        "amount": 2972.48,
+        "timestamp": "2026-10-07 22:37:55",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0055",
+        "target": "ACC_0007",
+        "type": "TRANSFER",
+        "tx_id": "TX_00263",
+        "amount": 1608.01,
+        "timestamp": "2026-10-16 00:02:53",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0024",
+        "target": "ACC_0008",
+        "type": "TRANSFER",
+        "tx_id": "TX_00264",
+        "amount": 3443.6,
+        "timestamp": "2026-10-16 10:26:14",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0015",
+        "target": "ACC_0052",
+        "type": "TRANSFER",
+        "tx_id": "TX_00265",
+        "amount": 1959.55,
+        "timestamp": "2026-10-16 02:47:10",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0050",
+        "target": "ACC_0053",
+        "type": "TRANSFER",
+        "tx_id": "TX_00266",
+        "amount": 2816.67,
+        "timestamp": "2026-10-16 00:19:27",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00267",
+        "amount": 4184.43,
+        "timestamp": "2026-10-08 23:47:58",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0012",
+        "type": "TRANSFER",
+        "tx_id": "TX_00268",
+        "amount": 1266.05,
+        "timestamp": "2026-10-09 23:59:47",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0059",
+        "target": "ACC_0022",
+        "type": "TRANSFER",
+        "tx_id": "TX_00269",
+        "amount": 1612.05,
+        "timestamp": "2026-10-06 21:40:35",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00270",
+        "amount": 2570.13,
+        "timestamp": "2026-10-12 05:28:25",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00271",
+        "amount": 3347.31,
+        "timestamp": "2026-10-03 05:51:32",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "ACC_0048",
+        "type": "TRANSFER",
+        "tx_id": "TX_00272",
+        "amount": 2410.65,
+        "timestamp": "2026-10-11 15:08:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0027",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00273",
+        "amount": 1566.99,
+        "timestamp": "2026-10-11 11:34:17",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0047",
+        "type": "TRANSFER",
+        "tx_id": "TX_00274",
+        "amount": 1493.5,
+        "timestamp": "2026-10-16 06:38:49",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "ACC_0006",
+        "type": "TRANSFER",
+        "tx_id": "TX_00275",
+        "amount": 3980.87,
+        "timestamp": "2026-10-06 06:37:54",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0011",
+        "target": "ACC_0049",
+        "type": "TRANSFER",
+        "tx_id": "TX_00276",
+        "amount": 2799.38,
+        "timestamp": "2026-10-04 11:31:28",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0018",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00277",
+        "amount": 2995.63,
+        "timestamp": "2026-10-14 06:55:06",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00278",
+        "amount": 1893.12,
+        "timestamp": "2026-10-07 17:34:40",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0049",
+        "target": "ACC_0033",
+        "type": "TRANSFER",
+        "tx_id": "TX_00279",
+        "amount": 556.49,
+        "timestamp": "2026-10-12 22:26:34",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0008",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00280",
+        "amount": 3068.07,
+        "timestamp": "2026-10-14 07:29:02",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0034",
+        "target": "ACC_0043",
+        "type": "TRANSFER",
+        "tx_id": "TX_00281",
+        "amount": 1422.47,
+        "timestamp": "2026-10-07 20:27:40",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0026",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00282",
+        "amount": 293.78,
+        "timestamp": "2026-10-07 11:05:06",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0014",
+        "type": "TRANSFER",
+        "tx_id": "TX_00283",
+        "amount": 3464.71,
+        "timestamp": "2026-10-08 16:51:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0019",
+        "target": "ACC_0021",
+        "type": "TRANSFER",
+        "tx_id": "TX_00284",
+        "amount": 583.93,
+        "timestamp": "2026-10-14 13:44:52",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0048",
+        "target": "ACC_0028",
+        "type": "TRANSFER",
+        "tx_id": "TX_00285",
+        "amount": 831.84,
+        "timestamp": "2026-10-11 17:29:12",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0035",
+        "target": "ACC_0046",
+        "type": "TRANSFER",
+        "tx_id": "TX_00286",
+        "amount": 1073.99,
+        "timestamp": "2026-10-16 01:28:48",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0054",
+        "target": "ACC_0043",
+        "type": "TRANSFER",
+        "tx_id": "TX_00287",
+        "amount": 3637.59,
+        "timestamp": "2026-10-04 05:59:13",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0026",
+        "target": "ACC_0056",
+        "type": "TRANSFER",
+        "tx_id": "TX_00288",
+        "amount": 3352.08,
+        "timestamp": "2026-10-13 02:06:58",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00289",
+        "amount": 4149.17,
+        "timestamp": "2026-10-10 02:22:15",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0037",
+        "target": "ACC_0028",
+        "type": "TRANSFER",
+        "tx_id": "TX_00290",
+        "amount": 2601.63,
+        "timestamp": "2026-10-12 15:19:27",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0019",
+        "target": "ACC_0008",
+        "type": "TRANSFER",
+        "tx_id": "TX_00291",
+        "amount": 1852.39,
+        "timestamp": "2026-10-10 09:11:28",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0011",
+        "target": "ACC_0052",
+        "type": "TRANSFER",
+        "tx_id": "TX_00292",
+        "amount": 4266.88,
+        "timestamp": "2026-10-13 16:01:33",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0054",
+        "target": "ACC_0045",
+        "type": "TRANSFER",
+        "tx_id": "TX_00293",
+        "amount": 4142.98,
+        "timestamp": "2026-10-04 15:20:21",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0028",
+        "target": "ACC_0055",
+        "type": "TRANSFER",
+        "tx_id": "TX_00294",
+        "amount": 521.09,
+        "timestamp": "2026-10-13 01:47:59",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0038",
+        "target": "ACC_0026",
+        "type": "TRANSFER",
+        "tx_id": "TX_00295",
+        "amount": 2381.63,
+        "timestamp": "2026-10-12 02:33:02",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0020",
+        "type": "TRANSFER",
+        "tx_id": "TX_00296",
+        "amount": 3368.83,
+        "timestamp": "2026-10-07 21:04:30",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0050",
+        "type": "TRANSFER",
+        "tx_id": "TX_00297",
+        "amount": 798.19,
+        "timestamp": "2026-10-14 21:22:41",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "ACC_0008",
+        "type": "TRANSFER",
+        "tx_id": "TX_00298",
+        "amount": 2411.19,
+        "timestamp": "2026-10-07 04:57:25",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0058",
+        "target": "ACC_0050",
+        "type": "TRANSFER",
+        "tx_id": "TX_00299",
+        "amount": 1604.72,
+        "timestamp": "2026-10-06 02:02:08",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0016",
+        "target": "ACC_0007",
+        "type": "TRANSFER",
+        "tx_id": "TX_00300",
+        "amount": 701.68,
+        "timestamp": "2026-10-07 06:55:08",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0012",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00301",
+        "amount": 730.27,
+        "timestamp": "2026-10-04 07:53:47",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0012",
+        "target": "ACC_0050",
+        "type": "TRANSFER",
+        "tx_id": "TX_00302",
+        "amount": 2844.37,
+        "timestamp": "2026-10-13 18:16:20",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0049",
+        "target": "ACC_0037",
+        "type": "TRANSFER",
+        "tx_id": "TX_00303",
+        "amount": 3431.45,
+        "timestamp": "2026-10-13 09:30:22",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "ACC_0060",
+        "type": "TRANSFER",
+        "tx_id": "TX_00304",
+        "amount": 3975.11,
+        "timestamp": "2026-10-10 08:16:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0041",
+        "type": "TRANSFER",
+        "tx_id": "TX_00305",
+        "amount": 1456.82,
+        "timestamp": "2026-10-13 04:10:49",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0031",
+        "type": "TRANSFER",
+        "tx_id": "TX_00306",
+        "amount": 2017.83,
+        "timestamp": "2026-10-09 20:24:20",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0051",
+        "target": "ACC_0018",
+        "type": "TRANSFER",
+        "tx_id": "TX_00307",
+        "amount": 2681.82,
+        "timestamp": "2026-10-11 01:01:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "ACC_0005",
+        "type": "TRANSFER",
+        "tx_id": "TX_00308",
+        "amount": 1431.31,
+        "timestamp": "2026-10-13 11:15:32",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0004",
+        "type": "TRANSFER",
+        "tx_id": "TX_00309",
+        "amount": 1690.88,
+        "timestamp": "2026-10-09 11:14:04",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0042",
+        "type": "TRANSFER",
+        "tx_id": "TX_00310",
+        "amount": 3895.91,
+        "timestamp": "2026-10-04 16:36:05",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00311",
+        "amount": 2306.45,
+        "timestamp": "2026-10-13 17:32:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0038",
+        "target": "ACC_0036",
+        "type": "TRANSFER",
+        "tx_id": "TX_00312",
+        "amount": 4296.33,
+        "timestamp": "2026-10-03 11:53:50",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0029",
+        "target": "ACC_0059",
+        "type": "TRANSFER",
+        "tx_id": "TX_00313",
+        "amount": 3653.68,
+        "timestamp": "2026-10-07 01:39:26",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0021",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00314",
+        "amount": 2166.55,
+        "timestamp": "2026-10-06 03:52:58",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0004",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00315",
+        "amount": 510.58,
+        "timestamp": "2026-10-10 20:04:01",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0046",
+        "target": "ACC_0006",
+        "type": "TRANSFER",
+        "tx_id": "TX_00316",
+        "amount": 2295.24,
+        "timestamp": "2026-10-06 16:31:22",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0016",
+        "type": "TRANSFER",
+        "tx_id": "TX_00317",
+        "amount": 3198.92,
+        "timestamp": "2026-10-13 03:58:54",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0034",
+        "target": "ACC_0040",
+        "type": "TRANSFER",
+        "tx_id": "TX_00318",
+        "amount": 756.42,
+        "timestamp": "2026-10-11 13:12:07",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0059",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00319",
+        "amount": 1774.0,
+        "timestamp": "2026-10-10 17:06:47",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00320",
+        "amount": 283.03,
+        "timestamp": "2026-10-10 14:56:50",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0022",
+        "type": "TRANSFER",
+        "tx_id": "TX_00321",
+        "amount": 470.55,
+        "timestamp": "2026-10-11 21:11:23",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0019",
+        "target": "ACC_0017",
+        "type": "TRANSFER",
+        "tx_id": "TX_00322",
+        "amount": 3270.61,
+        "timestamp": "2026-10-06 03:35:55",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0006",
+        "type": "TRANSFER",
+        "tx_id": "TX_00323",
+        "amount": 2643.19,
+        "timestamp": "2026-10-05 22:23:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0059",
+        "target": "ACC_0023",
+        "type": "TRANSFER",
+        "tx_id": "TX_00324",
+        "amount": 1430.53,
+        "timestamp": "2026-10-12 00:19:55",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0009",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00325",
+        "amount": 3204.31,
+        "timestamp": "2026-10-04 13:21:08",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0036",
+        "type": "TRANSFER",
+        "tx_id": "TX_00326",
+        "amount": 1726.22,
+        "timestamp": "2026-10-10 11:21:05",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0053",
+        "target": "ACC_0009",
+        "type": "TRANSFER",
+        "tx_id": "TX_00327",
+        "amount": 3032.02,
+        "timestamp": "2026-10-15 06:38:46",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "ACC_0042",
+        "type": "TRANSFER",
+        "tx_id": "TX_00328",
+        "amount": 3033.53,
+        "timestamp": "2026-10-14 20:12:57",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0024",
+        "target": "ACC_0002",
+        "type": "TRANSFER",
+        "tx_id": "TX_00329",
+        "amount": 1663.56,
+        "timestamp": "2026-10-06 21:00:38",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0014",
+        "target": "ACC_0022",
+        "type": "TRANSFER",
+        "tx_id": "TX_00330",
+        "amount": 4267.12,
+        "timestamp": "2026-10-14 07:16:24",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0013",
+        "target": "ACC_0015",
+        "type": "TRANSFER",
+        "tx_id": "TX_00331",
+        "amount": 4499.9,
+        "timestamp": "2026-10-06 06:15:43",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00332",
+        "amount": 3807.71,
+        "timestamp": "2026-10-04 22:55:07",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "ACC_0050",
+        "type": "TRANSFER",
+        "tx_id": "TX_00333",
+        "amount": 2451.98,
+        "timestamp": "2026-10-15 06:43:36",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0043",
+        "type": "TRANSFER",
+        "tx_id": "TX_00334",
+        "amount": 1548.6,
+        "timestamp": "2026-10-05 16:20:29",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "ACC_0025",
+        "type": "TRANSFER",
+        "tx_id": "TX_00335",
+        "amount": 736.42,
+        "timestamp": "2026-10-06 21:21:01",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0054",
+        "target": "ACC_0045",
+        "type": "TRANSFER",
+        "tx_id": "TX_00336",
+        "amount": 3481.39,
+        "timestamp": "2026-10-06 12:26:00",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0047",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00337",
+        "amount": 244.43,
+        "timestamp": "2026-10-11 08:13:11",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "ACC_0047",
+        "type": "TRANSFER",
+        "tx_id": "TX_00338",
+        "amount": 1107.01,
+        "timestamp": "2026-10-13 06:45:52",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00339",
+        "amount": 3398.14,
+        "timestamp": "2026-10-13 09:31:10",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0015",
+        "target": "ACC_0035",
+        "type": "TRANSFER",
+        "tx_id": "TX_00340",
+        "amount": 1114.3,
+        "timestamp": "2026-10-13 21:13:17",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0058",
+        "target": "ACC_0054",
+        "type": "TRANSFER",
+        "tx_id": "TX_00341",
+        "amount": 913.37,
+        "timestamp": "2026-10-16 08:17:36",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0029",
+        "target": "ACC_0030",
+        "type": "TRANSFER",
+        "tx_id": "TX_00342",
+        "amount": 3474.0,
+        "timestamp": "2026-10-11 18:27:24",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "ACC_0034",
+        "type": "TRANSFER",
+        "tx_id": "TX_00343",
+        "amount": 1913.04,
+        "timestamp": "2026-10-06 10:24:20",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0053",
+        "target": "ACC_0013",
+        "type": "TRANSFER",
+        "tx_id": "TX_00344",
+        "amount": 3615.6,
+        "timestamp": "2026-10-05 20:37:22",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0017",
+        "type": "TRANSFER",
+        "tx_id": "TX_00345",
+        "amount": 282.2,
+        "timestamp": "2026-10-14 03:57:51",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0024",
+        "type": "TRANSFER",
+        "tx_id": "TX_00346",
+        "amount": 2517.71,
+        "timestamp": "2026-10-04 23:45:46",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0046",
+        "target": "ACC_0055",
+        "type": "TRANSFER",
+        "tx_id": "TX_00347",
+        "amount": 2345.8,
+        "timestamp": "2026-10-05 12:37:48",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0019",
+        "target": "ACC_0006",
+        "type": "TRANSFER",
+        "tx_id": "TX_00348",
+        "amount": 3445.87,
+        "timestamp": "2026-10-09 02:54:44",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0029",
+        "target": "ACC_0058",
+        "type": "TRANSFER",
+        "tx_id": "TX_00349",
+        "amount": 2334.42,
+        "timestamp": "2026-10-13 02:50:46",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "ACC_0059",
+        "type": "TRANSFER",
+        "tx_id": "TX_00350",
+        "amount": 1038.07,
+        "timestamp": "2026-10-13 10:48:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0057",
+        "target": "ACC_0023",
+        "type": "TRANSFER",
+        "tx_id": "TX_00351",
+        "amount": 4190.6,
+        "timestamp": "2026-10-12 13:41:41",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0004",
+        "target": "ACC_0026",
+        "type": "TRANSFER",
+        "tx_id": "TX_00352",
+        "amount": 2283.93,
+        "timestamp": "2026-10-08 05:21:02",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0025",
+        "target": "ACC_0006",
+        "type": "TRANSFER",
+        "tx_id": "TX_00353",
+        "amount": 1718.36,
+        "timestamp": "2026-10-03 04:25:13",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0021",
+        "target": "ACC_0060",
+        "type": "TRANSFER",
+        "tx_id": "TX_00354",
+        "amount": 490.92,
+        "timestamp": "2026-10-10 15:19:14",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0051",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00355",
+        "amount": 662.32,
+        "timestamp": "2026-10-09 11:07:09",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0059",
+        "target": "ACC_0054",
+        "type": "TRANSFER",
+        "tx_id": "TX_00356",
+        "amount": 2152.42,
+        "timestamp": "2026-10-05 20:51:09",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0049",
+        "target": "ACC_0046",
+        "type": "TRANSFER",
+        "tx_id": "TX_00357",
+        "amount": 2137.54,
+        "timestamp": "2026-10-02 15:03:32",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0058",
+        "target": "ACC_0006",
+        "type": "TRANSFER",
+        "tx_id": "TX_00358",
+        "amount": 134.57,
+        "timestamp": "2026-10-07 17:37:40",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0054",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00359",
+        "amount": 2492.18,
+        "timestamp": "2026-10-15 07:26:57",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0028",
+        "target": "ACC_0008",
+        "type": "TRANSFER",
+        "tx_id": "TX_00360",
+        "amount": 3503.97,
+        "timestamp": "2026-10-08 06:26:07",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "ACC_0008",
+        "type": "TRANSFER",
+        "tx_id": "TX_00361",
+        "amount": 262.49,
+        "timestamp": "2026-10-12 16:33:57",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "ACC_0051",
+        "type": "TRANSFER",
+        "tx_id": "TX_00362",
+        "amount": 2821.51,
+        "timestamp": "2026-10-04 00:35:16",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0008",
+        "target": "ACC_0054",
+        "type": "TRANSFER",
+        "tx_id": "TX_00363",
+        "amount": 4077.9,
+        "timestamp": "2026-10-15 12:16:26",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0041",
+        "type": "TRANSFER",
+        "tx_id": "TX_00364",
+        "amount": 2343.42,
+        "timestamp": "2026-10-08 08:56:21",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0046",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00365",
+        "amount": 1346.16,
+        "timestamp": "2026-10-02 12:54:40",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0023",
+        "type": "TRANSFER",
+        "tx_id": "TX_00366",
+        "amount": 1120.51,
+        "timestamp": "2026-10-12 14:40:05",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0012",
+        "target": "ACC_0043",
+        "type": "TRANSFER",
+        "tx_id": "TX_00367",
+        "amount": 3023.56,
+        "timestamp": "2026-10-15 04:57:06",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0024",
+        "target": "ACC_0005",
+        "type": "TRANSFER",
+        "tx_id": "TX_00368",
+        "amount": 4292.65,
+        "timestamp": "2026-10-15 16:57:02",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "ACC_0051",
+        "type": "TRANSFER",
+        "tx_id": "TX_00369",
+        "amount": 4448.08,
+        "timestamp": "2026-10-15 22:49:00",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0025",
+        "type": "TRANSFER",
+        "tx_id": "TX_00370",
+        "amount": 3936.32,
+        "timestamp": "2026-10-03 13:21:38",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "ACC_0025",
+        "type": "TRANSFER",
+        "tx_id": "TX_00371",
+        "amount": 4415.63,
+        "timestamp": "2026-10-08 15:45:43",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0048",
+        "target": "ACC_0002",
+        "type": "TRANSFER",
+        "tx_id": "TX_00372",
+        "amount": 1639.07,
+        "timestamp": "2026-10-04 03:21:22",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0023",
+        "target": "ACC_0016",
+        "type": "TRANSFER",
+        "tx_id": "TX_00373",
+        "amount": 3311.59,
+        "timestamp": "2026-10-05 00:23:18",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0050",
+        "target": "ACC_0038",
+        "type": "TRANSFER",
+        "tx_id": "TX_00374",
+        "amount": 3321.58,
+        "timestamp": "2026-10-10 13:42:22",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0009",
+        "target": "ACC_0003",
+        "type": "TRANSFER",
+        "tx_id": "TX_00375",
+        "amount": 1617.73,
+        "timestamp": "2026-10-10 17:13:05",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0053",
+        "target": "ACC_0042",
+        "type": "TRANSFER",
+        "tx_id": "TX_00376",
+        "amount": 829.15,
+        "timestamp": "2026-10-13 18:39:44",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0045",
+        "target": "ACC_0031",
+        "type": "TRANSFER",
+        "tx_id": "TX_00377",
+        "amount": 2861.22,
+        "timestamp": "2026-10-05 18:33:26",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0046",
+        "type": "TRANSFER",
+        "tx_id": "TX_00378",
+        "amount": 3504.05,
+        "timestamp": "2026-10-13 14:37:03",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00379",
+        "amount": 947.08,
+        "timestamp": "2026-10-07 08:11:58",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0057",
+        "target": "ACC_0003",
+        "type": "TRANSFER",
+        "tx_id": "TX_00380",
+        "amount": 1454.4,
+        "timestamp": "2026-10-10 00:37:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "ACC_0026",
+        "type": "TRANSFER",
+        "tx_id": "TX_00381",
+        "amount": 4451.6,
+        "timestamp": "2026-10-15 16:20:17",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0031",
+        "target": "ACC_0017",
+        "type": "TRANSFER",
+        "tx_id": "TX_00382",
+        "amount": 212.96,
+        "timestamp": "2026-10-07 03:19:32",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0019",
+        "target": "ACC_0023",
+        "type": "TRANSFER",
+        "tx_id": "TX_00383",
+        "amount": 3886.52,
+        "timestamp": "2026-10-03 15:50:52",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0042",
+        "type": "TRANSFER",
+        "tx_id": "TX_00384",
+        "amount": 1527.06,
+        "timestamp": "2026-10-05 12:30:43",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0052",
+        "target": "ACC_0024",
+        "type": "TRANSFER",
+        "tx_id": "TX_00385",
+        "amount": 1994.43,
+        "timestamp": "2026-10-12 05:01:46",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0048",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00386",
+        "amount": 4031.14,
+        "timestamp": "2026-10-11 21:14:12",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "ACC_0012",
+        "type": "TRANSFER",
+        "tx_id": "TX_00387",
+        "amount": 2258.1,
+        "timestamp": "2026-10-14 13:49:42",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0024",
+        "target": "ACC_0060",
+        "type": "TRANSFER",
+        "tx_id": "TX_00388",
+        "amount": 3597.94,
+        "timestamp": "2026-10-08 23:22:33",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0052",
+        "target": "ACC_0006",
+        "type": "TRANSFER",
+        "tx_id": "TX_00389",
+        "amount": 3285.51,
+        "timestamp": "2026-10-04 09:58:41",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0028",
+        "target": "ACC_0039",
+        "type": "TRANSFER",
+        "tx_id": "TX_00390",
+        "amount": 4478.19,
+        "timestamp": "2026-10-06 21:07:24",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0035",
+        "target": "ACC_0019",
+        "type": "TRANSFER",
+        "tx_id": "TX_00391",
+        "amount": 1479.39,
+        "timestamp": "2026-10-04 10:38:36",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0021",
+        "target": "ACC_0043",
+        "type": "TRANSFER",
+        "tx_id": "TX_00392",
+        "amount": 1365.6,
+        "timestamp": "2026-10-13 07:45:53",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "ACC_0046",
+        "type": "TRANSFER",
+        "tx_id": "TX_00393",
+        "amount": 1946.22,
+        "timestamp": "2026-10-13 06:35:43",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0023",
+        "target": "ACC_0029",
+        "type": "TRANSFER",
+        "tx_id": "TX_00394",
+        "amount": 238.48,
+        "timestamp": "2026-10-11 01:22:50",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "ACC_0028",
+        "type": "TRANSFER",
+        "tx_id": "TX_00395",
+        "amount": 1271.77,
+        "timestamp": "2026-10-03 21:24:48",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "ACC_0043",
+        "type": "TRANSFER",
+        "tx_id": "TX_00396",
+        "amount": 2886.93,
+        "timestamp": "2026-10-11 07:38:38",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "ACC_0052",
+        "type": "TRANSFER",
+        "tx_id": "TX_00397",
+        "amount": 3387.05,
+        "timestamp": "2026-10-06 09:11:56",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0010",
+        "type": "TRANSFER",
+        "tx_id": "TX_00398",
+        "amount": 3826.58,
+        "timestamp": "2026-10-13 03:15:15",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0009",
+        "type": "TRANSFER",
+        "tx_id": "TX_00399",
+        "amount": 349.19,
+        "timestamp": "2026-10-11 09:24:06",
+        "category": "normal"
+      },
+      {
+        "source": "ACC_0024",
+        "target": "ACC_0025",
+        "type": "TRANSFER",
+        "tx_id": "TX_00400",
+        "amount": 4275.13,
+        "timestamp": "2026-10-03 06:51:56",
+        "category": "normal"
+      },
+      {
+        "source": "MULE_101",
+        "target": "MULE_102",
+        "type": "TRANSFER",
+        "tx_id": "TX_00401",
+        "amount": 500000.0,
+        "timestamp": "2026-10-13 22:00:00",
+        "category": "circular_loop"
+      },
+      {
+        "source": "MULE_102",
+        "target": "MULE_103",
+        "type": "TRANSFER",
+        "tx_id": "TX_00402",
+        "amount": 490000.0,
+        "timestamp": "2026-10-13 22:15:00",
+        "category": "circular_loop"
+      },
+      {
+        "source": "MULE_103",
+        "target": "MULE_104",
+        "type": "TRANSFER",
+        "tx_id": "TX_00403",
+        "amount": 480200.0,
+        "timestamp": "2026-10-13 22:30:00",
+        "category": "circular_loop"
+      },
+      {
+        "source": "MULE_104",
+        "target": "MULE_105",
+        "type": "TRANSFER",
+        "tx_id": "TX_00404",
+        "amount": 470596.0,
+        "timestamp": "2026-10-13 22:45:00",
+        "category": "circular_loop"
+      },
+      {
+        "source": "MULE_105",
+        "target": "MULE_101",
+        "type": "TRANSFER",
+        "tx_id": "TX_00405",
+        "amount": 461184.08,
+        "timestamp": "2026-10-13 23:00:00",
+        "category": "circular_loop"
+      },
+      {
+        "source": "MULE_RING_06",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00406",
+        "amount": 2598.94,
+        "timestamp": "2026-10-15 04:00:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_05",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00407",
+        "amount": 4666.94,
+        "timestamp": "2026-10-15 04:18:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_04",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00408",
+        "amount": 3354.24,
+        "timestamp": "2026-10-15 04:36:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_02",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00409",
+        "amount": 3692.2,
+        "timestamp": "2026-10-15 04:54:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_06",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00410",
+        "amount": 3154.07,
+        "timestamp": "2026-10-15 05:12:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_04",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00411",
+        "amount": 3888.86,
+        "timestamp": "2026-10-15 05:30:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_03",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00412",
+        "amount": 4697.35,
+        "timestamp": "2026-10-15 05:48:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_02",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00413",
+        "amount": 4112.75,
+        "timestamp": "2026-10-15 06:06:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_05",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00414",
+        "amount": 3546.14,
+        "timestamp": "2026-10-15 06:24:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_06",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00415",
+        "amount": 2506.18,
+        "timestamp": "2026-10-15 06:42:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_04",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00416",
+        "amount": 4030.5,
+        "timestamp": "2026-10-15 07:00:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_03",
+        "target": "MULE_RING_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00417",
+        "amount": 4790.55,
+        "timestamp": "2026-10-15 07:18:00",
+        "category": "smurfing_fan_in"
+      },
+      {
+        "source": "MULE_RING_01",
+        "target": "ACC_0059",
+        "type": "TRANSFER",
+        "tx_id": "TX_00418",
+        "amount": 21500.0,
+        "timestamp": "2026-10-15 09:00:00",
+        "category": "fan_out_cashout"
+      },
+      {
+        "source": "MULE_RING_01",
+        "target": "ACC_0060",
+        "type": "TRANSFER",
+        "tx_id": "TX_00419",
+        "amount": 21500.0,
+        "timestamp": "2026-10-15 09:20:00",
+        "category": "fan_out_cashout"
+      },
+      {
+        "source": "SHELL_ACC_01",
+        "target": "SHELL_ACC_02",
+        "type": "TRANSFER",
+        "tx_id": "TX_00420",
+        "amount": 150000.0,
+        "timestamp": "2026-10-13 02:00:00",
+        "category": "shell_loop"
+      },
+      {
+        "source": "SHELL_ACC_02",
+        "target": "SHELL_ACC_03",
+        "type": "TRANSFER",
+        "tx_id": "TX_00421",
+        "amount": 147000.0,
+        "timestamp": "2026-10-13 03:00:00",
+        "category": "shell_loop"
+      },
+      {
+        "source": "SHELL_ACC_03",
+        "target": "SHELL_ACC_01",
+        "type": "TRANSFER",
+        "tx_id": "TX_00422",
+        "amount": 144060.0,
+        "timestamp": "2026-10-13 04:00:00",
+        "category": "shell_loop"
+      },
+      {
+        "source": "ACC_0001",
+        "target": "DEV_NORM_006",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "DEV_NORM_043",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "DEV_NORM_037",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0004",
+        "target": "DEV_NORM_021",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "DEV_NORM_014",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "DEV_NORM_016",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0007",
+        "target": "DEV_NORM_026",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0008",
+        "target": "DEV_NORM_043",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0009",
+        "target": "DEV_NORM_030",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0010",
+        "target": "DEV_NORM_005",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0011",
+        "target": "DEV_NORM_030",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0012",
+        "target": "DEV_NORM_007",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0013",
+        "target": "DEV_NORM_035",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0014",
+        "target": "DEV_NORM_033",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0015",
+        "target": "DEV_NORM_009",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0016",
+        "target": "DEV_NORM_005",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0017",
+        "target": "DEV_NORM_024",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0018",
+        "target": "DEV_NORM_011",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0019",
+        "target": "DEV_NORM_035",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "DEV_NORM_040",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0021",
+        "target": "DEV_NORM_001",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "DEV_NORM_020",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0023",
+        "target": "DEV_NORM_009",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0024",
+        "target": "DEV_NORM_008",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0025",
+        "target": "DEV_NORM_036",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0026",
+        "target": "DEV_NORM_018",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0027",
+        "target": "DEV_NORM_039",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0028",
+        "target": "DEV_NORM_022",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0029",
+        "target": "DEV_NORM_044",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0030",
+        "target": "DEV_NORM_033",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0031",
+        "target": "DEV_NORM_017",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0032",
+        "target": "DEV_NORM_006",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "DEV_NORM_018",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0034",
+        "target": "DEV_NORM_001",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0035",
+        "target": "DEV_NORM_009",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "DEV_NORM_011",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0037",
+        "target": "DEV_NORM_036",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0038",
+        "target": "DEV_NORM_036",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "DEV_NORM_008",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "DEV_NORM_010",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "DEV_NORM_003",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0042",
+        "target": "DEV_NORM_038",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0043",
+        "target": "DEV_NORM_010",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "DEV_NORM_009",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0045",
+        "target": "DEV_NORM_020",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0046",
+        "target": "DEV_NORM_003",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0047",
+        "target": "DEV_NORM_014",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0048",
+        "target": "DEV_NORM_043",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0049",
+        "target": "DEV_NORM_023",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0050",
+        "target": "DEV_NORM_027",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0051",
+        "target": "DEV_NORM_016",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0052",
+        "target": "DEV_NORM_012",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0053",
+        "target": "DEV_NORM_002",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0054",
+        "target": "DEV_NORM_022",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0055",
+        "target": "DEV_NORM_043",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "DEV_NORM_018",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0057",
+        "target": "DEV_NORM_007",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0058",
+        "target": "DEV_NORM_003",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0059",
+        "target": "DEV_NORM_015",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0060",
+        "target": "DEV_NORM_030",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_101",
+        "target": "DEV_LOOP_101",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_102",
+        "target": "DEV_LOOP_101",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_103",
+        "target": "DEV_LOOP_101",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_104",
+        "target": "DEV_LOOP_101",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_105",
+        "target": "DEV_LOOP_101",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_RING_01",
+        "target": "DEV_MULE_RING_01",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_RING_02",
+        "target": "DEV_MULE_RING_01",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_RING_03",
+        "target": "DEV_MULE_RING_01",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_RING_04",
+        "target": "DEV_MULE_RING_01",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_RING_05",
+        "target": "DEV_MULE_RING_01",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "MULE_RING_06",
+        "target": "DEV_MULE_RING_01",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "SHELL_ACC_01",
+        "target": "DEV_SHELL_VPN_99",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "SHELL_ACC_02",
+        "target": "DEV_SHELL_VPN_99",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "SHELL_ACC_03",
+        "target": "DEV_SHELL_VPN_99",
+        "type": "USED_DEVICE"
+      },
+      {
+        "source": "ACC_0001",
+        "target": "192.168.79.17",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0002",
+        "target": "192.168.41.150",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0003",
+        "target": "192.168.33.19",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0004",
+        "target": "192.168.61.233",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0005",
+        "target": "192.168.68.75",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0006",
+        "target": "192.168.61.233",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0007",
+        "target": "192.168.80.27",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0008",
+        "target": "192.168.59.69",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0009",
+        "target": "192.168.68.75",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0010",
+        "target": "192.168.53.206",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0011",
+        "target": "192.168.25.243",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0012",
+        "target": "192.168.27.110",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0013",
+        "target": "192.168.40.44",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0014",
+        "target": "192.168.61.233",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0015",
+        "target": "192.168.72.41",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0016",
+        "target": "192.168.71.56",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0017",
+        "target": "192.168.58.2",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0018",
+        "target": "192.168.16.151",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0019",
+        "target": "192.168.59.69",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0020",
+        "target": "192.168.33.19",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0021",
+        "target": "192.168.40.105",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0022",
+        "target": "192.168.69.65",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0023",
+        "target": "192.168.61.233",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0024",
+        "target": "192.168.69.65",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0025",
+        "target": "192.168.16.168",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0026",
+        "target": "192.168.58.2",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0027",
+        "target": "192.168.40.44",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0028",
+        "target": "192.168.40.44",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0029",
+        "target": "192.168.61.233",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0030",
+        "target": "192.168.17.247",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0031",
+        "target": "192.168.78.116",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0032",
+        "target": "192.168.50.16",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0033",
+        "target": "192.168.34.50",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0034",
+        "target": "192.168.64.180",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0035",
+        "target": "192.168.61.233",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0036",
+        "target": "192.168.16.151",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0037",
+        "target": "192.168.50.16",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0038",
+        "target": "192.168.53.206",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0039",
+        "target": "192.168.27.110",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0040",
+        "target": "192.168.18.174",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0041",
+        "target": "192.168.34.77",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0042",
+        "target": "192.168.40.105",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0043",
+        "target": "192.168.50.16",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0044",
+        "target": "192.168.34.50",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0045",
+        "target": "192.168.34.77",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0046",
+        "target": "192.168.72.41",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0047",
+        "target": "192.168.71.56",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0048",
+        "target": "192.168.69.65",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0049",
+        "target": "192.168.40.105",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0050",
+        "target": "192.168.16.168",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0051",
+        "target": "192.168.79.216",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0052",
+        "target": "192.168.79.17",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0053",
+        "target": "192.168.11.250",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0054",
+        "target": "192.168.79.17",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0055",
+        "target": "192.168.71.56",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0056",
+        "target": "192.168.79.216",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0057",
+        "target": "192.168.37.249",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0058",
+        "target": "192.168.77.42",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0059",
+        "target": "192.168.21.239",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ACC_0060",
+        "target": "192.168.72.41",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_101",
+        "target": "10.0.0.99",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_102",
+        "target": "10.0.0.99",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_103",
+        "target": "10.0.0.99",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_104",
+        "target": "10.0.0.99",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_105",
+        "target": "10.0.0.99",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_RING_01",
+        "target": "198.51.100.88",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_RING_02",
+        "target": "198.51.100.88",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_RING_03",
+        "target": "198.51.100.88",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_RING_04",
+        "target": "198.51.100.88",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_RING_05",
+        "target": "198.51.100.88",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "MULE_RING_06",
+        "target": "198.51.100.88",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "SHELL_ACC_01",
+        "target": "203.0.113.195",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "SHELL_ACC_02",
+        "target": "203.0.113.195",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "SHELL_ACC_03",
+        "target": "203.0.113.195",
+        "type": "LOGGED_IN_IP"
+      },
+      {
+        "source": "ENT_001",
+        "target": "ACC_0001",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_001",
+        "target": "ACC_0002",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_002",
+        "target": "ACC_0006",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_002",
+        "target": "ACC_0007",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_003",
+        "target": "ACC_0011",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_003",
+        "target": "ACC_0012",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_004",
+        "target": "ACC_0016",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_004",
+        "target": "ACC_0017",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_005",
+        "target": "ACC_0021",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_005",
+        "target": "ACC_0022",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_006",
+        "target": "ACC_0026",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_006",
+        "target": "ACC_0027",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_007",
+        "target": "ACC_0031",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_007",
+        "target": "ACC_0032",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_008",
+        "target": "ACC_0036",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_008",
+        "target": "ACC_0037",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_01",
+        "target": "MULE_101",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_01",
+        "target": "MULE_102",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_05",
+        "target": "MULE_103",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_05",
+        "target": "MULE_104",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_06",
+        "target": "MULE_105",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_02",
+        "target": "SHELL_ACC_01",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_03",
+        "target": "SHELL_ACC_02",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_04",
+        "target": "SHELL_ACC_03",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_05",
+        "target": "MULE_RING_01",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_05",
+        "target": "MULE_RING_02",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_05",
+        "target": "MULE_RING_03",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_05",
+        "target": "MULE_RING_04",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_05",
+        "target": "MULE_RING_05",
+        "type": "OWNS"
+      },
+      {
+        "source": "ENT_SHELL_05",
+        "target": "MULE_RING_06",
+        "type": "OWNS"
+      }
+    ]
+  },
+  "alerts": [
+    {
+      "id": "CASE-SAR-2026-8812",
+      "type": "CIRCULAR_LAUNDERING",
+      "title": "Case SAR-2026-8812: 5-Hop Circular Laundering Cycle",
+      "severity": "CRITICAL",
+      "risk_score": 98,
+      "statute": "31 U.S.C. \u00a7 5324(a) (Structuring to Evade Reporting)",
+      "accounts": [
+        "MULE_101",
+        "MULE_102",
+        "MULE_103",
+        "MULE_104",
+        "MULE_105"
+      ],
+      "total_volume": 2401980.08,
+      "initial_volume": 500000.0,
+      "hops": 5,
+      "retained_pct": 92.24,
+      "shared_ip": "10.0.0.99",
+      "shared_device": "DEV_LOOP_101",
+      "time_span": "1 hour 15 mins (15m intervals)",
+      "explanation": "FATF Typology 4.2: Closed-loop circular fund cycling passing sequentially through 5 proxy accounts with systematic 2.0% intermediary transit fee decay (,000/hop). Shared IP 10.0.0.99 and hardware terminal DEV_LOOP_101."
+    },
+    {
+      "id": "CASE-SAR-2026-4409",
+      "type": "SHARED_INFRASTRUCTURE",
+      "title": "Case SAR-2026-4409: Shared-Hardware Mule Syndicate",
+      "severity": "HIGH",
+      "risk_score": 92,
+      "statute": "18 U.S.C. \u00a7 1956 (Money Laundering Syndicate Operation)",
+      "accounts": [
+        "MULE_RING_01",
+        "MULE_RING_02",
+        "MULE_RING_03",
+        "MULE_RING_04",
+        "MULE_RING_05",
+        "MULE_RING_06"
+      ],
+      "total_volume": 84200.0,
+      "hops": 0,
+      "shared_ip": "198.51.100.88",
+      "shared_device": "DEV_MULE_RING_01",
+      "explanation": "6 retail accounts accessed from identical physical device fingerprint DEV_MULE_RING_01 and single IP 198.51.100.88. Operating under offshore umbrella entity Vanguard Global Trust LLC (Belize)."
+    },
+    {
+      "id": "CASE-SAR-2026-9021",
+      "type": "SMURFING_FAN_IN",
+      "title": "Case SAR-2026-9021: High-Velocity Smurfing Fan-In Hub",
+      "severity": "HIGH",
+      "risk_score": 89,
+      "statute": "31 CFR \u00a7 1010.311 (Filing of Currency Transaction Reports)",
+      "accounts": [
+        "MULE_RING_01"
+      ],
+      "feeders": [
+        "MULE_RING_02",
+        "MULE_RING_03",
+        "MULE_RING_04",
+        "MULE_RING_05",
+        "MULE_RING_06"
+      ],
+      "total_volume": 41200.0,
+      "hops": 1,
+      "time_span": "3 hours 36 mins",
+      "explanation": "Target account MULE_RING_01 received 12 structured transfers strictly between ,200 and ,850 deliberately kept below CTR ,000 reporting threshold, followed by immediate wire sweep fan-outs."
+    },
+    {
+      "id": "CASE-SAR-2026-3184",
+      "type": "CROSS_BORDER_SHELL_LOOP",
+      "title": "Case SAR-2026-3184: Offshore Tri-Jurisdiction Shell Loop",
+      "severity": "CRITICAL",
+      "risk_score": 94,
+      "statute": "FinCEN Advisory FIN-2020-A002 (Shell Company Misuse)",
+      "accounts": [
+        "SHELL_ACC_01",
+        "SHELL_ACC_02",
+        "SHELL_ACC_03"
+      ],
+      "entities": [
+        "Mariner Offshore Trading Ltd (Seychelles)",
+        "Horizon Gateway Capital Corp (Panama)",
+        "Blue Ocean Merchant S.A. (BVI)"
+      ],
+      "total_volume": 441060.0,
+      "hops": 3,
+      "retained_pct": 96.04,
+      "time_span": "2 hours",
+      "explanation": "Triangular international fund transfer loop traversing high-secrecy tax havens (Seychelles, Panama, British Virgin Islands) with zero economic substance."
+    }
+  ],
+  "metadata": {
+    "total_nodes": 177,
+    "total_links": 600,
+    "generated_at": "2026-10-16T22:05:01.475957"
+  }
+}

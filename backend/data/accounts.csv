@@ -1,0 +1,75 @@
+account_id,holder_name,created_at,risk_score,status,account_type
+ACC_0001,Emma Smith,2024-03-21,13,active,normal
+ACC_0002,Olivia Brown,2025-11-28,8,active,normal
+ACC_0003,Alexander Johnson,2024-08-23,18,active,normal
+ACC_0004,James Smith,2026-01-14,11,active,normal
+ACC_0005,Olivia Taylor,2024-08-11,5,active,normal
+ACC_0006,Alexander Brown,2024-04-16,25,active,normal
+ACC_0007,Alexander Davis,2025-09-06,19,active,normal
+ACC_0008,Isabella Jones,2026-04-13,10,active,normal
+ACC_0009,Lucas Miller,2025-07-09,9,active,normal
+ACC_0010,Olivia Miller,2026-01-05,7,active,normal
+ACC_0011,Lucas Johnson,2025-04-17,16,active,normal
+ACC_0012,Isabella Jones,2026-03-06,19,active,normal
+ACC_0013,Alexander Johnson,2025-03-28,7,active,normal
+ACC_0014,Alexander Jones,2024-07-15,24,active,normal
+ACC_0015,Sophia Anderson,2025-10-05,7,active,normal
+ACC_0016,James Brown,2024-02-18,14,active,normal
+ACC_0017,Emma Brown,2026-01-06,17,active,normal
+ACC_0018,Noah Wilson,2024-07-08,16,active,normal
+ACC_0019,Liam Miller,2025-04-21,11,active,normal
+ACC_0020,Noah Johnson,2024-08-04,25,active,normal
+ACC_0021,Liam Taylor,2024-04-03,12,active,normal
+ACC_0022,Liam Wilson,2025-03-27,13,active,normal
+ACC_0023,Alexander Brown,2024-05-18,15,active,normal
+ACC_0024,James Brown,2026-03-18,15,active,normal
+ACC_0025,Lucas Jones,2026-02-11,11,active,normal
+ACC_0026,Isabella Miller,2025-09-14,25,active,normal
+ACC_0027,Mia Davis,2024-06-30,19,active,normal
+ACC_0028,Liam Jones,2025-11-28,12,active,normal
+ACC_0029,Alexander Taylor,2025-07-24,23,active,normal
+ACC_0030,Lucas Anderson,2025-03-07,16,active,normal
+ACC_0031,Olivia Williams,2024-11-14,20,active,normal
+ACC_0032,Emma Smith,2025-12-28,9,active,normal
+ACC_0033,Liam Davis,2024-08-17,7,active,normal
+ACC_0034,Lucas Davis,2024-08-17,19,active,normal
+ACC_0035,Alexander Jones,2024-09-30,5,active,normal
+ACC_0036,Emma Taylor,2024-03-12,13,active,normal
+ACC_0037,Sophia Johnson,2025-06-23,18,active,normal
+ACC_0038,Liam Wilson,2026-04-16,13,active,normal
+ACC_0039,Alexander Williams,2024-11-16,8,active,normal
+ACC_0040,Noah Taylor,2024-08-04,11,active,normal
+ACC_0041,Liam Miller,2024-02-29,10,active,normal
+ACC_0042,Alexander Taylor,2026-04-19,24,active,normal
+ACC_0043,Sophia Wilson,2026-03-31,8,active,normal
+ACC_0044,Sophia Jones,2025-08-17,6,active,normal
+ACC_0045,Olivia Anderson,2026-01-29,7,active,normal
+ACC_0046,Mia Johnson,2024-03-02,22,active,normal
+ACC_0047,Liam Williams,2024-06-13,20,active,normal
+ACC_0048,Alexander Williams,2025-07-22,21,active,normal
+ACC_0049,Isabella Davis,2025-09-15,22,active,normal
+ACC_0050,Olivia Jones,2025-03-07,25,active,normal
+ACC_0051,Sophia Wilson,2024-11-06,19,active,normal
+ACC_0052,Emma Brown,2025-09-01,7,active,normal
+ACC_0053,Sophia Smith,2024-08-25,22,active,normal
+ACC_0054,Olivia Anderson,2025-09-06,5,active,normal
+ACC_0055,Emma Smith,2025-08-28,7,active,normal
+ACC_0056,James Miller,2026-02-06,21,active,normal
+ACC_0057,Olivia Jones,2024-06-03,20,active,normal
+ACC_0058,Olivia Taylor,2025-12-05,23,active,normal
+ACC_0059,Isabella Wilson,2025-08-14,20,active,normal
+ACC_0060,Lucas Brown,2026-01-13,8,active,normal
+MULE_101,Proxy Agent MULE_101,2026-09-13,96,active,circular_loop
+MULE_102,Proxy Agent MULE_102,2026-09-15,96,active,circular_loop
+MULE_103,Proxy Agent MULE_103,2026-09-13,96,active,circular_loop
+MULE_104,Proxy Agent MULE_104,2026-09-13,96,active,circular_loop
+MULE_105,Proxy Agent MULE_105,2026-09-12,96,active,circular_loop
+MULE_RING_01,Syndicate Account MULE_RING_01,2026-09-18,91,active,shared_infra_ring
+MULE_RING_02,Syndicate Account MULE_RING_02,2026-09-20,91,active,shared_infra_ring
+MULE_RING_03,Syndicate Account MULE_RING_03,2026-10-01,91,active,shared_infra_ring
+MULE_RING_04,Syndicate Account MULE_RING_04,2026-09-21,91,active,shared_infra_ring
+MULE_RING_05,Syndicate Account MULE_RING_05,2026-09-21,91,active,shared_infra_ring
+MULE_RING_06,Syndicate Account MULE_RING_06,2026-09-21,91,active,shared_infra_ring
+SHELL_ACC_01,Shell Corp Account SHELL_ACC_01,2026-10-03,88,active,shell_loop
+SHELL_ACC_02,Shell Corp Account SHELL_ACC_02,2026-10-04,88,active,shell_loop
+SHELL_ACC_03,Shell Corp Account SHELL_ACC_03,2026-09-28,88,active,shell_loop

@@ -1,0 +1,15 @@
+entity_id,name,jurisdiction,created_at,is_shell
+ENT_001,Summit Logistics LLC,United States,2024-09-26,False
+ENT_002,Nordic Horizon Imports,Germany,2025-02-03,False
+ENT_003,Kestrel Retail Group,United Kingdom,2024-04-29,False
+ENT_004,Pacifica Retail Solutions,Singapore,2025-05-24,False
+ENT_005,Maple Leaf Trading Corp,Canada,2025-08-12,False
+ENT_006,Tokyo Harbor Services,Japan,2024-06-28,False
+ENT_007,Beacon Health Systems,United States,2023-10-12,False
+ENT_008,Apex Precision Tools,Germany,2025-02-23,False
+ENT_SHELL_01,Golden Crest Holding Ltd,Cyprus,2026-09-28,True
+ENT_SHELL_02,Mariner Offshore Trading Ltd,Seychelles,2026-09-25,True
+ENT_SHELL_03,Horizon Gateway Capital Corp,Panama,2026-10-02,True
+ENT_SHELL_04,Blue Ocean Merchant S.A.,British Virgin Islands,2026-09-21,True
+ENT_SHELL_05,Vanguard Global Trust LLC,Belize,2026-10-01,True
+ENT_SHELL_06,Silverline Commercial Holdings,Cayman Islands,2026-09-18,True
